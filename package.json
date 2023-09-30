@@ -1,0 +1,24 @@
+{
+  "name": "pullgrapher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "nodemon ./src/index.ts",
+    "start": "ts-node ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.7.2",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "chart.js": "^3.5.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "chartjs-plugin-annotation": "^1.4.0"
+  }
+}
