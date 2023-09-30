@@ -1,0 +1,25 @@
+import { Point } from "chart.js";
+import { Fight, Logs } from "./interfaces";
+
+export default class LogFilter {
+  constructor(private readonly logs: Logs) {}
+
+  asOrderedPoints = (phaseCount: number): Point[] =>
+    this.logs.data.reportData.reports.data
+      .filter((x) => x.fights.length !== 0)
+      .reduce((acc, curr) => {
+        curr.fights.forEach((x) =>
+          acc.push({
+            ...x,
+            bossPercentage: 100 - x.bossPercentage,
+            startTime: x.startTime + curr.startTime,
+          })
+        );
+        return acc;
+      }, [] as Fight[])
+      .sort((a, b) => a.startTime - b.startTime)
+      .map((f, i) => ({
+        x: i,
+        y: ((f.lastPhase - 1) * 100 + f.bossPercentage) / phaseCount,
+      }));
+}
