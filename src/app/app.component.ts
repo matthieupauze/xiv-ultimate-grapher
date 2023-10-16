@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { Fight, Logs } from './interfaces';
 
-const logs: Logs = require('./data/logs.json');
+const logs: Logs = require('../assets/logs.json');
 
 const DSR_PHASES = 8;
 
@@ -26,6 +26,9 @@ export class AppComponent {
     .sort((a, b) => a.startTime - b.startTime)
     .map((f, i) => [
       i,
-      +(((f.lastPhase - 1) * 100 + f.bossPercentage) / DSR_PHASES).toFixed(2),
+      +(
+        (f.lastPhaseAsAbsoluteIndex * 100 + f.bossPercentage) /
+        DSR_PHASES
+      ).toFixed(2),
     ]);
 }

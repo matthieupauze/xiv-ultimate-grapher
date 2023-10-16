@@ -2,7 +2,7 @@ export interface Fight {
   id: number;
   startTime: number;
   bossPercentage: number; // Lower is better
-  lastPhase: number;
+  lastPhaseAsAbsoluteIndex: number;
 }
 
 export interface Logs {

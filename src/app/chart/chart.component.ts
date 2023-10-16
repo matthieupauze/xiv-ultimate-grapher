@@ -40,6 +40,7 @@ export class ChartComponent {
         {
           data,
           type: 'line',
+          name: 'Pulls'
         },
       ],
       credits: {
