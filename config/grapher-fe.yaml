@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: grapher-fe
+  namespace: pull-grapher
+  labels:
+    app: grapher
+spec:
+  revisionHistoryLimit: 0
+  replicas: 1
+  selector:
+    matchLabels:
+      app: grapher
+  template:
+    metadata:
+      labels:
+        app: grapher
+        version: v1
+    spec:
+      containers:
+        - name: grapher
+          image: ghcr.io/MeatCow/pull-grapher:latest
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: grapher-fe-svc
+  labels:
+    app: grapher
+spec:
+  type: ClusterIP
+  ports:
+    - name: http
+      targetPort: 80
+      port: 80
+    - name: https
+      targetPort: 443
+      port: 443
+  selector:
+    app: grapher
