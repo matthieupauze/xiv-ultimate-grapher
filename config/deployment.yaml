@@ -20,22 +20,3 @@ spec:
       containers:
         - name: grapher
           image: ghcr.io/MeatCow/pull-grapher:latest
-
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: grapher-fe-svc
-  labels:
-    app: grapher
-spec:
-  type: ClusterIP
-  ports:
-    - name: http
-      targetPort: 80
-      port: 80
-    - name: https
-      targetPort: 443
-      port: 443
-  selector:
-    app: grapher
