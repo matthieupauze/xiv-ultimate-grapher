@@ -1,2734 +1,3628 @@
 {
-	"data": {
-		"reportData": {
-			"reports": {
-				"data": [
-					{
-						"code": "47vLpkzQ32AbtZgx",
-						"startTime": 1697412618636,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 30823,
-								"bossPercentage": 98.86,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 2,
-								"startTime": 227685,
-								"bossPercentage": 2.03,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 3,
-								"startTime": 577390,
-								"bossPercentage": 40.04,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 4,
-								"startTime": 754123,
-								"bossPercentage": 61.21,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 5,
-								"startTime": 1029286,
-								"bossPercentage": 40.73,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 6,
-								"startTime": 1192860,
-								"bossPercentage": 47.54,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 7,
-								"startTime": 3258105,
-								"bossPercentage": 28.95,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 8,
-								"startTime": 4106234,
-								"bossPercentage": 67.53,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 9,
-								"startTime": 4201809,
-								"bossPercentage": 67.65,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 10,
-								"startTime": 4775564,
-								"bossPercentage": 66.82,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 11,
-								"startTime": 5366661,
-								"bossPercentage": 53.74,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 12,
-								"startTime": 5486345,
-								"bossPercentage": 67.1,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 13,
-								"startTime": 6154759,
-								"bossPercentage": 67.32,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 14,
-								"startTime": 6420693,
-								"bossPercentage": 68.42,
-								"lastPhaseAsAbsoluteIndex": 5
-							}
-						]
-					},
-					{
-						"code": "B1Pg2jxWHkYrbfcT",
-						"startTime": 1697673628957,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 43483,
-								"bossPercentage": 100,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 2,
-								"startTime": 201416,
-								"bossPercentage": 99.3,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 3,
-								"startTime": 446782,
-								"bossPercentage": 28.66,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 4,
-								"startTime": 1529786,
-								"bossPercentage": 69.11,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 5,
-								"startTime": 1709458,
-								"bossPercentage": 43.12,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 6,
-								"startTime": 2241172,
-								"bossPercentage": 68.21,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 7,
-								"startTime": 2576893,
-								"bossPercentage": 41.38,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 8,
-								"startTime": 3283607,
-								"bossPercentage": 39.2,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 9,
-								"startTime": 3460133,
-								"bossPercentage": 67.45,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 10,
-								"startTime": 3569935,
-								"bossPercentage": 2.22,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 11,
-								"startTime": 3935809,
-								"bossPercentage": 42.44,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 12,
-								"startTime": 4447253,
-								"bossPercentage": 38.17,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 13,
-								"startTime": 5320586,
-								"bossPercentage": 63.99,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 14,
-								"startTime": 5422277,
-								"bossPercentage": 98.26,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 15,
-								"startTime": 5622351,
-								"bossPercentage": 41.47,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 16,
-								"startTime": 5789156,
-								"bossPercentage": 39.66,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 17,
-								"startTime": 5950877,
-								"bossPercentage": 66.81,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 18,
-								"startTime": 6550911,
-								"bossPercentage": 39.39,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 19,
-								"startTime": 6723835,
-								"bossPercentage": 1.74,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 20,
-								"startTime": 7080167,
-								"bossPercentage": 66.83,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 21,
-								"startTime": 7176230,
-								"bossPercentage": 40.53,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 22,
-								"startTime": 7355019,
-								"bossPercentage": 66.75,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 23,
-								"startTime": 7982909,
-								"bossPercentage": 38.49,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 24,
-								"startTime": 8152922,
-								"bossPercentage": 39.56,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 25,
-								"startTime": 8323692,
-								"bossPercentage": 39.66,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 26,
-								"startTime": 8536079,
-								"bossPercentage": 39.16,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 27,
-								"startTime": 8712656,
-								"bossPercentage": 100,
-								"lastPhaseAsAbsoluteIndex": 4
-							},
-							{
-								"id": 28,
-								"startTime": 9215713,
-								"bossPercentage": 67.5,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 29,
-								"startTime": 9310439,
-								"bossPercentage": 39.42,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 30,
-								"startTime": 9463919,
-								"bossPercentage": 7.59,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 31,
-								"startTime": 9818040,
-								"bossPercentage": 82.29,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 32,
-								"startTime": 10210009,
-								"bossPercentage": 45.31,
-								"lastPhaseAsAbsoluteIndex": 2
-							}
-						]
-					},
-					{
-						"code": "92mf4LwpNWan7AXZ",
-						"startTime": 1697068910696,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 44965,
-								"bossPercentage": 99.42,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 2,
-								"startTime": 247448,
-								"bossPercentage": 39.11,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 3,
-								"startTime": 420330,
-								"bossPercentage": 3.33,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 4,
-								"startTime": 797008,
-								"bossPercentage": 61.63,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 5,
-								"startTime": 1095613,
-								"bossPercentage": 40.84,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 6,
-								"startTime": 1260282,
-								"bossPercentage": 50.86,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 7,
-								"startTime": 2121175,
-								"bossPercentage": 69.02,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 8,
-								"startTime": 2215620,
-								"bossPercentage": 40.27,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 9,
-								"startTime": 2648403,
-								"bossPercentage": 1.89,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 10,
-								"startTime": 3001825,
-								"bossPercentage": 8.32,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 11,
-								"startTime": 3503928,
-								"bossPercentage": 38.89,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 12,
-								"startTime": 3666817,
-								"bossPercentage": 42.17,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 13,
-								"startTime": 4005596,
-								"bossPercentage": 39.47,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 14,
-								"startTime": 4186042,
-								"bossPercentage": 67.88,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 15,
-								"startTime": 4263297,
-								"bossPercentage": 21.68,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 16,
-								"startTime": 4797636,
-								"bossPercentage": 67.73,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 17,
-								"startTime": 5442555,
-								"bossPercentage": 99.6,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 18,
-								"startTime": 5640881,
-								"bossPercentage": 39.41,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 19,
-								"startTime": 5811433,
-								"bossPercentage": 68.53,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 20,
-								"startTime": 5900741,
-								"bossPercentage": 52.34,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 21,
-								"startTime": 6190017,
-								"bossPercentage": 68.76,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 22,
-								"startTime": 6457940,
-								"bossPercentage": 39.73,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 23,
-								"startTime": 6619732,
-								"bossPercentage": 41.18,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 24,
-								"startTime": 6786412,
-								"bossPercentage": 100,
-								"lastPhaseAsAbsoluteIndex": 4
-							},
-							{
-								"id": 25,
-								"startTime": 7539472,
-								"bossPercentage": 36.9,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 26,
-								"startTime": 7844245,
-								"bossPercentage": 16.53,
-								"lastPhaseAsAbsoluteIndex": 4
-							}
-						]
-					},
-					{
-						"code": "LPGamgyJd67R2Hfk",
-						"startTime": 1697155251905,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 46428,
-								"bossPercentage": 43.94,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 2,
-								"startTime": 166449,
-								"bossPercentage": 50,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 3,
-								"startTime": 311844,
-								"bossPercentage": 99,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 4,
-								"startTime": 503771,
-								"bossPercentage": 49.23,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 5,
-								"startTime": 921544,
-								"bossPercentage": 69.16,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 6,
-								"startTime": 1900042,
-								"bossPercentage": 67.46,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 7,
-								"startTime": 1990178,
-								"bossPercentage": 38.04,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 8,
-								"startTime": 2154186,
-								"bossPercentage": 59.12,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 9,
-								"startTime": 2442746,
-								"bossPercentage": 40.75,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 10,
-								"startTime": 2750029,
-								"bossPercentage": 69.6,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 11,
-								"startTime": 2845157,
-								"bossPercentage": 67.32,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 12,
-								"startTime": 2935959,
-								"bossPercentage": 67.61,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 13,
-								"startTime": 3906518,
-								"bossPercentage": 67.33,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 14,
-								"startTime": 3989574,
-								"bossPercentage": 60.19,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 15,
-								"startTime": 4372839,
-								"bossPercentage": 67.87,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 16,
-								"startTime": 4465550,
-								"bossPercentage": 24.8,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 17,
-								"startTime": 4891270,
-								"bossPercentage": 38.64,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 18,
-								"startTime": 5867450,
-								"bossPercentage": 50,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 19,
-								"startTime": 6023392,
-								"bossPercentage": 98.69,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 20,
-								"startTime": 6221962,
-								"bossPercentage": 0.01,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 21,
-								"startTime": 6667146,
-								"bossPercentage": 67.88,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 22,
-								"startTime": 6766008,
-								"bossPercentage": 59.48,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 23,
-								"startTime": 7076893,
-								"bossPercentage": 70.56,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 24,
-								"startTime": 7968330,
-								"bossPercentage": 70.11,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 25,
-								"startTime": 8544138,
-								"bossPercentage": 46.24,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 26,
-								"startTime": 8844856,
-								"bossPercentage": 67.44,
-								"lastPhaseAsAbsoluteIndex": 5
-							},
-							{
-								"id": 27,
-								"startTime": 9485731,
-								"bossPercentage": 100,
-								"lastPhaseAsAbsoluteIndex": 4
-							},
-							{
-								"id": 28,
-								"startTime": 10150043,
-								"bossPercentage": 51.22,
-								"lastPhaseAsAbsoluteIndex": 4
-							}
-						]
-					},
-					{
-						"code": "aj4yWZ8VBtzPT2Gp",
-						"startTime": 1696552175298,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 374646,
-								"bossPercentage": 47.25,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 2,
-								"startTime": 574707,
-								"bossPercentage": 99.37,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 3,
-								"startTime": 837125,
-								"bossPercentage": 64.03,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 4,
-								"startTime": 1114311,
-								"bossPercentage": 68.82,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 5,
-								"startTime": 1391213,
-								"bossPercentage": 48,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 6,
-								"startTime": 1707906,
-								"bossPercentage": 41.75,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 7,
-								"startTime": 2058566,
-								"bossPercentage": 51.96,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 8,
-								"startTime": 2639157,
-								"bossPercentage": 38.46,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 9,
-								"startTime": 2812949,
-								"bossPercentage": 57.42,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 10,
-								"startTime": 3124731,
-								"bossPercentage": 38.8,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 11,
-								"startTime": 3303441,
-								"bossPercentage": 69.21,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 12,
-								"startTime": 3586624,
-								"bossPercentage": 68.32,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 13,
-								"startTime": 3676519,
-								"bossPercentage": 59.14,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 14,
-								"startTime": 4185398,
-								"bossPercentage": 67.55,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 15,
-								"startTime": 4271568,
-								"bossPercentage": 38.45,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 16,
-								"startTime": 4448213,
-								"bossPercentage": 69.48,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 17,
-								"startTime": 4730708,
-								"bossPercentage": 69.05,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 18,
-								"startTime": 5007230,
-								"bossPercentage": 63.63,
-								"lastPhaseAsAbsoluteIndex": 2
-							}
-						]
-					},
-					{
-						"code": "HK8Dz6YbtAMLWmfq",
-						"startTime": 1696464156547,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 39293,
-								"bossPercentage": 9.37,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 2,
-								"startTime": 178829,
-								"bossPercentage": 99.23,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 3,
-								"startTime": 453735,
-								"bossPercentage": 38.98,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 4,
-								"startTime": 653980,
-								"bossPercentage": 18.02,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 5,
-								"startTime": 863143,
-								"bossPercentage": 59.54,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 6,
-								"startTime": 1162628,
-								"bossPercentage": 39.45,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 7,
-								"startTime": 1331074,
-								"bossPercentage": 74.99,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 8,
-								"startTime": 1600645,
-								"bossPercentage": 37.64,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 9,
-								"startTime": 1770373,
-								"bossPercentage": 67.35,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 10,
-								"startTime": 1870754,
-								"bossPercentage": 49.82,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 11,
-								"startTime": 2354262,
-								"bossPercentage": 38.24,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 12,
-								"startTime": 2523541,
-								"bossPercentage": 6.06,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 13,
-								"startTime": 2888078,
-								"bossPercentage": 37.99,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 14,
-								"startTime": 3045219,
-								"bossPercentage": 63.92,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 15,
-								"startTime": 3320242,
-								"bossPercentage": 5.01,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 16,
-								"startTime": 3675885,
-								"bossPercentage": 38.45,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 17,
-								"startTime": 3845206,
-								"bossPercentage": 37.29,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 18,
-								"startTime": 4026780,
-								"bossPercentage": 54.97,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 19,
-								"startTime": 4328203,
-								"bossPercentage": 57.08,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 20,
-								"startTime": 4621151,
-								"bossPercentage": 37.41,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 21,
-								"startTime": 4770759,
-								"bossPercentage": 61.75,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 22,
-								"startTime": 5699165,
-								"bossPercentage": 98.51,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 23,
-								"startTime": 6283575,
-								"bossPercentage": 44.04,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 24,
-								"startTime": 6469219,
-								"bossPercentage": 38.48,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 25,
-								"startTime": 6639394,
-								"bossPercentage": 1.14,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 26,
-								"startTime": 7157139,
-								"bossPercentage": 41.94,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 27,
-								"startTime": 7472453,
-								"bossPercentage": 38.14,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 28,
-								"startTime": 7648813,
-								"bossPercentage": 81.18,
-								"lastPhaseAsAbsoluteIndex": 3
-							},
-							{
-								"id": 29,
-								"startTime": 8097220,
-								"bossPercentage": 62.65,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 30,
-								"startTime": 8383181,
-								"bossPercentage": 63.72,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 31,
-								"startTime": 8666873,
-								"bossPercentage": 38.35,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 32,
-								"startTime": 8842696,
-								"bossPercentage": 40.08,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 33,
-								"startTime": 9145520,
-								"bossPercentage": 76.54,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 34,
-								"startTime": 9411768,
-								"bossPercentage": 38.96,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 35,
-								"startTime": 9579982,
-								"bossPercentage": 37.61,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 36,
-								"startTime": 9758489,
-								"bossPercentage": 75.67,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 37,
-								"startTime": 10026623,
-								"bossPercentage": 39.58,
-								"lastPhaseAsAbsoluteIndex": 1
-							}
-						]
-					},
-					{
-						"code": "ZA1dtmVwa3zCYTxB",
-						"startTime": 1696118499405,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 78195,
-								"bossPercentage": 7.34,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 2,
-								"startTime": 212444,
-								"bossPercentage": 99.14,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 3,
-								"startTime": 400096,
-								"bossPercentage": 38.98,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 4,
-								"startTime": 571640,
-								"bossPercentage": 64.49,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 5,
-								"startTime": 859451,
-								"bossPercentage": 67.01,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 6,
-								"startTime": 1151167,
-								"bossPercentage": 40.27,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 7,
-								"startTime": 1332334,
-								"bossPercentage": 43.28,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 8,
-								"startTime": 1774451,
-								"bossPercentage": 39.55,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 9,
-								"startTime": 1954080,
-								"bossPercentage": 43.24,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 10,
-								"startTime": 2301933,
-								"bossPercentage": 57.41,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 11,
-								"startTime": 2689168,
-								"bossPercentage": 2.52,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 12,
-								"startTime": 3174656,
-								"bossPercentage": 42.44,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 13,
-								"startTime": 3351777,
-								"bossPercentage": 61.57,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 14,
-								"startTime": 3787433,
-								"bossPercentage": 58.56,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 15,
-								"startTime": 4113231,
-								"bossPercentage": 58.1,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 16,
-								"startTime": 4411568,
-								"bossPercentage": 71.59,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 17,
-								"startTime": 4738810,
-								"bossPercentage": 66.25,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 18,
-								"startTime": 5044564,
-								"bossPercentage": 52.36,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 19,
-								"startTime": 5166266,
-								"bossPercentage": 73.72,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 20,
-								"startTime": 5431190,
-								"bossPercentage": 54.65,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 21,
-								"startTime": 5718133,
-								"bossPercentage": 59.15,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 22,
-								"startTime": 6143300,
-								"bossPercentage": 68.31,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 23,
-								"startTime": 6237880,
-								"bossPercentage": 68.44,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 24,
-								"startTime": 6331276,
-								"bossPercentage": 38.54,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 25,
-								"startTime": 6493398,
-								"bossPercentage": 67.85,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 26,
-								"startTime": 6756484,
-								"bossPercentage": 44.49,
-								"lastPhaseAsAbsoluteIndex": 2
-							}
-						]
-					},
-					{
-						"code": "HrYCAwBdRzkfJ8LG",
-						"startTime": 1695945645173,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 39066,
-								"bossPercentage": 22.2,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 2,
-								"startTime": 171745,
-								"bossPercentage": 99.05,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 3,
-								"startTime": 561102,
-								"bossPercentage": 40.58,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 4,
-								"startTime": 747009,
-								"bossPercentage": 66.92,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 5,
-								"startTime": 1226182,
-								"bossPercentage": 73.83,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 6,
-								"startTime": 1490921,
-								"bossPercentage": 70.07,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 7,
-								"startTime": 1847642,
-								"bossPercentage": 39.81,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 8,
-								"startTime": 2014132,
-								"bossPercentage": 67.33,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 9,
-								"startTime": 2096901,
-								"bossPercentage": 39.7,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 10,
-								"startTime": 2262306,
-								"bossPercentage": 40.49,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 11,
-								"startTime": 2425487,
-								"bossPercentage": 59.34,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 12,
-								"startTime": 2829917,
-								"bossPercentage": 39.19,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 13,
-								"startTime": 2991770,
-								"bossPercentage": 70.5,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 14,
-								"startTime": 3266460,
-								"bossPercentage": 40.68,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 15,
-								"startTime": 3437502,
-								"bossPercentage": 59.43,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 16,
-								"startTime": 3756123,
-								"bossPercentage": 38.5,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 17,
-								"startTime": 3927311,
-								"bossPercentage": 67.75,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 18,
-								"startTime": 4009289,
-								"bossPercentage": 66.96,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 19,
-								"startTime": 4104142,
-								"bossPercentage": 38.64,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 20,
-								"startTime": 4369529,
-								"bossPercentage": 39.26,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 21,
-								"startTime": 4533440,
-								"bossPercentage": 39.47,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 22,
-								"startTime": 4704595,
-								"bossPercentage": 59.67,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 23,
-								"startTime": 5030656,
-								"bossPercentage": 67.24,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 24,
-								"startTime": 5124564,
-								"bossPercentage": 73.38,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 25,
-								"startTime": 6153827,
-								"bossPercentage": 56.19,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 26,
-								"startTime": 6254316,
-								"bossPercentage": 100,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 27,
-								"startTime": 6418427,
-								"bossPercentage": 63.1,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 28,
-								"startTime": 6519345,
-								"bossPercentage": 35.84,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 29,
-								"startTime": 6613994,
-								"bossPercentage": 100,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 30,
-								"startTime": 6775316,
-								"bossPercentage": 18.42,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 31,
-								"startTime": 6904086,
-								"bossPercentage": 50,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 32,
-								"startTime": 7059197,
-								"bossPercentage": 17.15,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 33,
-								"startTime": 7193964,
-								"bossPercentage": 98.83,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 34,
-								"startTime": 7384023,
-								"bossPercentage": 39.81,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 35,
-								"startTime": 7538087,
-								"bossPercentage": 39.92,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 36,
-								"startTime": 7701806,
-								"bossPercentage": 68.89,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 37,
-								"startTime": 7978911,
-								"bossPercentage": 65.82,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 38,
-								"startTime": 8432980,
-								"bossPercentage": 72.68,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 39,
-								"startTime": 8740107,
-								"bossPercentage": 38.96,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 40,
-								"startTime": 8907855,
-								"bossPercentage": 71.24,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 41,
-								"startTime": 9220023,
-								"bossPercentage": 70.17,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 42,
-								"startTime": 9496983,
-								"bossPercentage": 57.24,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 44,
-								"startTime": 10027732,
-								"bossPercentage": 69.09,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 45,
-								"startTime": 10295059,
-								"bossPercentage": 38.38,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 46,
-								"startTime": 10465724,
-								"bossPercentage": 39.65,
-								"lastPhaseAsAbsoluteIndex": 1
-							}
-						]
-					},
-					{
-						"code": "2hjL3raQq8AnxwfX",
-						"startTime": 1695513666683,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 32762,
-								"bossPercentage": 98.56,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 2,
-								"startTime": 241143,
-								"bossPercentage": 40.95,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 3,
-								"startTime": 490255,
-								"bossPercentage": 38.5,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 4,
-								"startTime": 665599,
-								"bossPercentage": 39.72,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 5,
-								"startTime": 831298,
-								"bossPercentage": 40.71,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 6,
-								"startTime": 1314824,
-								"bossPercentage": 66.84,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 7,
-								"startTime": 1397090,
-								"bossPercentage": 88.35,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 8,
-								"startTime": 1742642,
-								"bossPercentage": 79.52,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 10,
-								"startTime": 2690518,
-								"bossPercentage": 38.31,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 11,
-								"startTime": 2872074,
-								"bossPercentage": 39.33,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 12,
-								"startTime": 3053412,
-								"bossPercentage": 38.9,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 13,
-								"startTime": 3253008,
-								"bossPercentage": 40.12,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 14,
-								"startTime": 3434962,
-								"bossPercentage": 65.26,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 15,
-								"startTime": 4170339,
-								"bossPercentage": 67.85,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 16,
-								"startTime": 4249289,
-								"bossPercentage": 73.61,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 17,
-								"startTime": 4747070,
-								"bossPercentage": 41.33,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 18,
-								"startTime": 5101767,
-								"bossPercentage": 72.72,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 19,
-								"startTime": 5585227,
-								"bossPercentage": 67.37,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 20,
-								"startTime": 5681782,
-								"bossPercentage": 39,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 21,
-								"startTime": 5869329,
-								"bossPercentage": 39.23,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 22,
-								"startTime": 6048713,
-								"bossPercentage": 39.5,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 23,
-								"startTime": 6229033,
-								"bossPercentage": 73.97,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 24,
-								"startTime": 6553337,
-								"bossPercentage": 63.09,
-								"lastPhaseAsAbsoluteIndex": 2
-							},
-							{
-								"id": 25,
-								"startTime": 6841151,
-								"bossPercentage": 39.72,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 26,
-								"startTime": 7030478,
-								"bossPercentage": 69.15,
-								"lastPhaseAsAbsoluteIndex": 2
-							}
-						]
-					},
-					{
-						"code": "DjmHw6A71bgCF4az",
-						"startTime": 1695341860370,
-						"fights": [
-							{
-								"id": 2,
-								"startTime": 228270,
-								"bossPercentage": 22.38,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 3,
-								"startTime": 354347,
-								"bossPercentage": 98.03,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 4,
-								"startTime": 610770,
-								"bossPercentage": 39.28,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 5,
-								"startTime": 776254,
-								"bossPercentage": 70,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 6,
-								"startTime": 865949,
-								"bossPercentage": 69.13,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 7,
-								"startTime": 950834,
-								"bossPercentage": 41.79,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 8,
-								"startTime": 1119734,
-								"bossPercentage": 67.52,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 9,
-								"startTime": 1228118,
-								"bossPercentage": 41.24,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 10,
-								"startTime": 1389692,
-								"bossPercentage": 68.75,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 11,
-								"startTime": 1711326,
-								"bossPercentage": 71.43,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 12,
-								"startTime": 1804510,
-								"bossPercentage": 68.02,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 13,
-								"startTime": 1898689,
-								"bossPercentage": 67.95,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 14,
-								"startTime": 2009989,
-								"bossPercentage": 48.6,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 15,
-								"startTime": 2238516,
-								"bossPercentage": 41.16,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 16,
-								"startTime": 2502874,
-								"bossPercentage": 69.62,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 17,
-								"startTime": 2718127,
-								"bossPercentage": 46.22,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 18,
-								"startTime": 2884102,
-								"bossPercentage": 50.32,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 19,
-								"startTime": 3085818,
-								"bossPercentage": 40.47,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 20,
-								"startTime": 3268642,
-								"bossPercentage": 67.48,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 21,
-								"startTime": 3388449,
-								"bossPercentage": 68.22,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 22,
-								"startTime": 3490588,
-								"bossPercentage": 68.42,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 23,
-								"startTime": 3584174,
-								"bossPercentage": 46.49,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 24,
-								"startTime": 3757650,
-								"bossPercentage": 67.72,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 25,
-								"startTime": 3853712,
-								"bossPercentage": 40.8,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 26,
-								"startTime": 4016533,
-								"bossPercentage": 82.67,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 27,
-								"startTime": 4061264,
-								"bossPercentage": 50,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 28,
-								"startTime": 4249905,
-								"bossPercentage": 88.08,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 29,
-								"startTime": 4366036,
-								"bossPercentage": 67.21,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 30,
-								"startTime": 5119823,
-								"bossPercentage": 20.02,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 31,
-								"startTime": 5270869,
-								"bossPercentage": 49.29,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 32,
-								"startTime": 5357169,
-								"bossPercentage": 30.97,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 33,
-								"startTime": 5547061,
-								"bossPercentage": 72.74,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 34,
-								"startTime": 5599432,
-								"bossPercentage": 98.18,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 35,
-								"startTime": 5809054,
-								"bossPercentage": 68.56,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 36,
-								"startTime": 5896550,
-								"bossPercentage": 68.67,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 37,
-								"startTime": 5990485,
-								"bossPercentage": 68.32,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 38,
-								"startTime": 6085786,
-								"bossPercentage": 44.44,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 39,
-								"startTime": 6272733,
-								"bossPercentage": 42.74,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 40,
-								"startTime": 6426675,
-								"bossPercentage": 41.98,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 41,
-								"startTime": 6595823,
-								"bossPercentage": 38.6,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 42,
-								"startTime": 6749059,
-								"bossPercentage": 67.4,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 43,
-								"startTime": 6838560,
-								"bossPercentage": 44.99,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 44,
-								"startTime": 6991513,
-								"bossPercentage": 45.83,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 45,
-								"startTime": 7144456,
-								"bossPercentage": 42.83,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 46,
-								"startTime": 7494313,
-								"bossPercentage": 68.34,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 47,
-								"startTime": 7595637,
-								"bossPercentage": 68.08,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 48,
-								"startTime": 7699854,
-								"bossPercentage": 68.48,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 49,
-								"startTime": 7831934,
-								"bossPercentage": 45.86,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 50,
-								"startTime": 7985586,
-								"bossPercentage": 68.1,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 51,
-								"startTime": 8078182,
-								"bossPercentage": 45.86,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 52,
-								"startTime": 8241018,
-								"bossPercentage": 39.3,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 53,
-								"startTime": 8405498,
-								"bossPercentage": 38.81,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 54,
-								"startTime": 8567153,
-								"bossPercentage": 67.03,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 55,
-								"startTime": 8662446,
-								"bossPercentage": 45.88,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 56,
-								"startTime": 8868429,
-								"bossPercentage": 39.58,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 57,
-								"startTime": 9034295,
-								"bossPercentage": 67.18,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 58,
-								"startTime": 9138340,
-								"bossPercentage": 38.58,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 59,
-								"startTime": 9295657,
-								"bossPercentage": 46.25,
-								"lastPhaseAsAbsoluteIndex": 1
-							}
-						]
-					},
-					{
-						"code": "zxnVKpY6bQvt12Bf",
-						"startTime": 1694909967048,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 32321,
-								"bossPercentage": 99.89,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 2,
-								"startTime": 228098,
-								"bossPercentage": 82.73,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 3,
-								"startTime": 279530,
-								"bossPercentage": 69.73,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 4,
-								"startTime": 360597,
-								"bossPercentage": 68.16,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 5,
-								"startTime": 442982,
-								"bossPercentage": 71.94,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 6,
-								"startTime": 525466,
-								"bossPercentage": 68.56,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 7,
-								"startTime": 626000,
-								"bossPercentage": 41.32,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 8,
-								"startTime": 781478,
-								"bossPercentage": 40.98,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 9,
-								"startTime": 944268,
-								"bossPercentage": 44.21,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 10,
-								"startTime": 1161673,
-								"bossPercentage": 98.18,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 11,
-								"startTime": 1237463,
-								"bossPercentage": 67.27,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 12,
-								"startTime": 1382510,
-								"bossPercentage": 39.82,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 13,
-								"startTime": 1603329,
-								"bossPercentage": 39.02,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 14,
-								"startTime": 1774472,
-								"bossPercentage": 68.32,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 15,
-								"startTime": 1856409,
-								"bossPercentage": 40.38,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 16,
-								"startTime": 2019157,
-								"bossPercentage": 41.75,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 17,
-								"startTime": 2159462,
-								"bossPercentage": 40.15,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 18,
-								"startTime": 2450910,
-								"bossPercentage": 40.71,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 19,
-								"startTime": 2639212,
-								"bossPercentage": 39.56,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 20,
-								"startTime": 2821247,
-								"bossPercentage": 40.88,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 21,
-								"startTime": 3203149,
-								"bossPercentage": 39.79,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 22,
-								"startTime": 3370062,
-								"bossPercentage": 68.44,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 23,
-								"startTime": 3469454,
-								"bossPercentage": 39.51,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 24,
-								"startTime": 3639557,
-								"bossPercentage": 39.01,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 25,
-								"startTime": 3826393,
-								"bossPercentage": 41.55,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 26,
-								"startTime": 3990915,
-								"bossPercentage": 41.39,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 27,
-								"startTime": 4157246,
-								"bossPercentage": 39.74,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 28,
-								"startTime": 4313772,
-								"bossPercentage": 70.18,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 29,
-								"startTime": 4409400,
-								"bossPercentage": 41.11,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 30,
-								"startTime": 4614079,
-								"bossPercentage": 40.34,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 31,
-								"startTime": 4776693,
-								"bossPercentage": 38.8,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 32,
-								"startTime": 4946831,
-								"bossPercentage": 39.99,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 33,
-								"startTime": 5304415,
-								"bossPercentage": 40.53,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 34,
-								"startTime": 5489141,
-								"bossPercentage": 39.74,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 35,
-								"startTime": 5659389,
-								"bossPercentage": 67.77,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 36,
-								"startTime": 5757239,
-								"bossPercentage": 67.31,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 37,
-								"startTime": 5851744,
-								"bossPercentage": 40.47,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 38,
-								"startTime": 6003648,
-								"bossPercentage": 69.46,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 39,
-								"startTime": 6106055,
-								"bossPercentage": 40.05,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 41,
-								"startTime": 6339998,
-								"bossPercentage": 69.02,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 42,
-								"startTime": 6422621,
-								"bossPercentage": 38.92,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 43,
-								"startTime": 6622207,
-								"bossPercentage": 38.63,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 44,
-								"startTime": 6903233,
-								"bossPercentage": 68.05,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 45,
-								"startTime": 6997065,
-								"bossPercentage": 44.4,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 46,
-								"startTime": 7165341,
-								"bossPercentage": 68.36,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 47,
-								"startTime": 7281206,
-								"bossPercentage": 68.57,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 48,
-								"startTime": 7380082,
-								"bossPercentage": 68.88,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 49,
-								"startTime": 7495446,
-								"bossPercentage": 68.67,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 50,
-								"startTime": 7574719,
-								"bossPercentage": 40.11,
-								"lastPhaseAsAbsoluteIndex": 1
-							}
-						]
-					},
-					{
-						"code": "MjgnFm4VwAckCaH3",
-						"startTime": 1694736030477,
-						"fights": [
-							{
-								"id": 1,
-								"startTime": 104718,
-								"bossPercentage": 69.06,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 2,
-								"startTime": 163843,
-								"bossPercentage": 67.27,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 3,
-								"startTime": 221985,
-								"bossPercentage": 48.02,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 4,
-								"startTime": 479257,
-								"bossPercentage": 41.77,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 5,
-								"startTime": 580563,
-								"bossPercentage": 67.68,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 6,
-								"startTime": 634760,
-								"bossPercentage": 31.55,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 7,
-								"startTime": 755672,
-								"bossPercentage": 43.76,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 8,
-								"startTime": 941126,
-								"bossPercentage": 38.47,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 9,
-								"startTime": 1041398,
-								"bossPercentage": 100,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 10,
-								"startTime": 1209850,
-								"bossPercentage": 46.8,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 11,
-								"startTime": 1573832,
-								"bossPercentage": 38.34,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 12,
-								"startTime": 1669017,
-								"bossPercentage": 39.31,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 13,
-								"startTime": 1797200,
-								"bossPercentage": 36.95,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 14,
-								"startTime": 1901995,
-								"bossPercentage": 37.87,
-								"lastPhaseAsAbsoluteIndex": 0
-							},
-							{
-								"id": 15,
-								"startTime": 1998695,
-								"bossPercentage": 98.9,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 16,
-								"startTime": 2350640,
-								"bossPercentage": 72.58,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 17,
-								"startTime": 2515976,
-								"bossPercentage": 70.39,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 18,
-								"startTime": 2637245,
-								"bossPercentage": 71.72,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 19,
-								"startTime": 2722213,
-								"bossPercentage": 67.42,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 20,
-								"startTime": 2826882,
-								"bossPercentage": 69.15,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 21,
-								"startTime": 2914901,
-								"bossPercentage": 70.27,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 22,
-								"startTime": 3041398,
-								"bossPercentage": 67.73,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 23,
-								"startTime": 3136114,
-								"bossPercentage": 68.97,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 24,
-								"startTime": 3276977,
-								"bossPercentage": 42.1,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 25,
-								"startTime": 3801415,
-								"bossPercentage": 69.14,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 26,
-								"startTime": 3897874,
-								"bossPercentage": 68.74,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 27,
-								"startTime": 3985611,
-								"bossPercentage": 68.91,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 28,
-								"startTime": 4080297,
-								"bossPercentage": 69.32,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 29,
-								"startTime": 4174783,
-								"bossPercentage": 75.6,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 30,
-								"startTime": 4242619,
-								"bossPercentage": 69.05,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 31,
-								"startTime": 4330840,
-								"bossPercentage": 83.24,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 32,
-								"startTime": 4388006,
-								"bossPercentage": 67.74,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 33,
-								"startTime": 4476166,
-								"bossPercentage": 71.51,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 34,
-								"startTime": 4563781,
-								"bossPercentage": 68.62,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 35,
-								"startTime": 4651203,
-								"bossPercentage": 68.32,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 36,
-								"startTime": 4738596,
-								"bossPercentage": 68.78,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 37,
-								"startTime": 4828205,
-								"bossPercentage": 73.36,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 38,
-								"startTime": 4917718,
-								"bossPercentage": 68.74,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 39,
-								"startTime": 5015556,
-								"bossPercentage": 67.22,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 40,
-								"startTime": 5112015,
-								"bossPercentage": 66.67,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 41,
-								"startTime": 5233320,
-								"bossPercentage": 72.1,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 42,
-								"startTime": 5331974,
-								"bossPercentage": 79.58,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 43,
-								"startTime": 5380841,
-								"bossPercentage": 68.34,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 44,
-								"startTime": 5479206,
-								"bossPercentage": 43.67,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 45,
-								"startTime": 5662339,
-								"bossPercentage": 67.07,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 46,
-								"startTime": 5766327,
-								"bossPercentage": 70.8,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 47,
-								"startTime": 5883452,
-								"bossPercentage": 68.04,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 48,
-								"startTime": 5980640,
-								"bossPercentage": 68.08,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 49,
-								"startTime": 6066340,
-								"bossPercentage": 68.87,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 50,
-								"startTime": 6157125,
-								"bossPercentage": 50.95,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 51,
-								"startTime": 6345662,
-								"bossPercentage": 68.43,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 52,
-								"startTime": 6433023,
-								"bossPercentage": 72.34,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 53,
-								"startTime": 6548650,
-								"bossPercentage": 67.75,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 54,
-								"startTime": 6636023,
-								"bossPercentage": 40.35,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 55,
-								"startTime": 6782058,
-								"bossPercentage": 69.12,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 56,
-								"startTime": 6864559,
-								"bossPercentage": 43.76,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 57,
-								"startTime": 7027720,
-								"bossPercentage": 40.81,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 58,
-								"startTime": 7189941,
-								"bossPercentage": 40.12,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 59,
-								"startTime": 7467267,
-								"bossPercentage": 67.39,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 60,
-								"startTime": 7554947,
-								"bossPercentage": 70.39,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 61,
-								"startTime": 7657217,
-								"bossPercentage": 67.51,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 62,
-								"startTime": 7746430,
-								"bossPercentage": 67.93,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 63,
-								"startTime": 8547698,
-								"bossPercentage": 98.49,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 64,
-								"startTime": 8741372,
-								"bossPercentage": 67.73,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 65,
-								"startTime": 8833914,
-								"bossPercentage": 68.37,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 66,
-								"startTime": 8917248,
-								"bossPercentage": 79.82,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 67,
-								"startTime": 8964679,
-								"bossPercentage": 67.95,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 68,
-								"startTime": 9053677,
-								"bossPercentage": 83.16,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 69,
-								"startTime": 9112480,
-								"bossPercentage": 83.33,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 70,
-								"startTime": 9160815,
-								"bossPercentage": 51.74,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 71,
-								"startTime": 9319605,
-								"bossPercentage": 67.45,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 72,
-								"startTime": 9418307,
-								"bossPercentage": 70.98,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 73,
-								"startTime": 9517096,
-								"bossPercentage": 67.63,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 74,
-								"startTime": 9598907,
-								"bossPercentage": 63.81,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 75,
-								"startTime": 9730888,
-								"bossPercentage": 47.46,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 76,
-								"startTime": 9883160,
-								"bossPercentage": 67.77,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 77,
-								"startTime": 9968092,
-								"bossPercentage": 68.62,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 78,
-								"startTime": 10052444,
-								"bossPercentage": 85.5,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 79,
-								"startTime": 10093552,
-								"bossPercentage": 41.41,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 80,
-								"startTime": 10275209,
-								"bossPercentage": 42.96,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 81,
-								"startTime": 10435953,
-								"bossPercentage": 68.99,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 82,
-								"startTime": 10537373,
-								"bossPercentage": 67.28,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 83,
-								"startTime": 10621288,
-								"bossPercentage": 70.07,
-								"lastPhaseAsAbsoluteIndex": 1
-							},
-							{
-								"id": 84,
-								"startTime": 10714600,
-								"bossPercentage": 68.71,
-								"lastPhaseAsAbsoluteIndex": 1
-							}
-						]
-					}
-				]
-			}
-		}
-	}
+  "data": {
+    "reportData": {
+      "reports": {
+        "data": [
+          {
+            "code": "WqPAN6L7CamJpBRF",
+            "startTime": 1699578043007,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 33989,
+                "bossPercentage": 99.4,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 288790,
+                "bossPercentage": 68.04,
+                "lastPhaseAsAbsoluteIndex": 6
+              },
+              {
+                "id": 3,
+                "startTime": 2152407,
+                "bossPercentage": 38.77,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 2330664,
+                "bossPercentage": 67.79,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 5,
+                "startTime": 3013532,
+                "bossPercentage": 37.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 6,
+                "startTime": 3186380,
+                "bossPercentage": 38.6,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 3383928,
+                "bossPercentage": 4.66,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 8,
+                "startTime": 4071999,
+                "bossPercentage": 67.97,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 9,
+                "startTime": 4643598,
+                "bossPercentage": 30.42,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 10,
+                "startTime": 6201376,
+                "bossPercentage": 99.15,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 6397240,
+                "bossPercentage": 38.37,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 12,
+                "startTime": 6696798,
+                "bossPercentage": 25.09,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 13,
+                "startTime": 7404611,
+                "bossPercentage": 38.55,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 7582368,
+                "bossPercentage": 37.57,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 15,
+                "startTime": 7760168,
+                "bossPercentage": 37.1,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 16,
+                "startTime": 8558212,
+                "bossPercentage": 38.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 8723068,
+                "bossPercentage": 66.96,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 18,
+                "startTime": 9318893,
+                "bossPercentage": 5.56,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 19,
+                "startTime": 9752637,
+                "bossPercentage": 37.52,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 9924585,
+                "bossPercentage": 67.21,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 21,
+                "startTime": 10040194,
+                "bossPercentage": 39.9,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 10202698,
+                "bossPercentage": 67.97,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          },
+          {
+            "code": "nQ24MTJYFGgvVdzj",
+            "startTime": 1699495228606,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 42434,
+                "bossPercentage": 99.44,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 284309,
+                "bossPercentage": 1.85,
+                "lastPhaseAsAbsoluteIndex": 4
+              },
+              {
+                "id": 3,
+                "startTime": 799189,
+                "bossPercentage": 25.12,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 4,
+                "startTime": 1593314,
+                "bossPercentage": 40.19,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 5,
+                "startTime": 1758187,
+                "bossPercentage": 67.45,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 2022581,
+                "bossPercentage": 39.76,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 2190154,
+                "bossPercentage": 38.05,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 2350073,
+                "bossPercentage": 39.59,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 9,
+                "startTime": 3049667,
+                "bossPercentage": 67.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 10,
+                "startTime": 3200426,
+                "bossPercentage": 39.38,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 3357201,
+                "bossPercentage": 35.61,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 12,
+                "startTime": 4051130,
+                "bossPercentage": 22.87,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 13,
+                "startTime": 4887903,
+                "bossPercentage": 23.83,
+                "lastPhaseAsAbsoluteIndex": 5
+              }
+            ]
+          },
+          {
+            "code": "jkGbD8vNpMtZ7hTK",
+            "startTime": 1699142406081,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 32458,
+                "bossPercentage": 99.19,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 218973,
+                "bossPercentage": 67.02,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 3,
+                "startTime": 806464,
+                "bossPercentage": 12.25,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 4,
+                "startTime": 1232976,
+                "bossPercentage": 63.14,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 5,
+                "startTime": 1505320,
+                "bossPercentage": 52.78,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 1792963,
+                "bossPercentage": 61.73,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 7,
+                "startTime": 2067144,
+                "bossPercentage": 86.41,
+                "lastPhaseAsAbsoluteIndex": 6
+              },
+              {
+                "id": 8,
+                "startTime": 2884508,
+                "bossPercentage": 38.45,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 3058503,
+                "bossPercentage": 22.94,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 10,
+                "startTime": 3708660,
+                "bossPercentage": 40.78,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 11,
+                "startTime": 4017965,
+                "bossPercentage": 67.46,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 4111761,
+                "bossPercentage": 66.08,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 13,
+                "startTime": 4803453,
+                "bossPercentage": 38.08,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 4980127,
+                "bossPercentage": 43.75,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 15,
+                "startTime": 5716728,
+                "bossPercentage": 99.28,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 5903755,
+                "bossPercentage": 38.59,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 6055396,
+                "bossPercentage": 6.52,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 18,
+                "startTime": 6521297,
+                "bossPercentage": 68.15,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 6602337,
+                "bossPercentage": 65.84,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 6691327,
+                "bossPercentage": 32.51,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 21,
+                "startTime": 7460688,
+                "bossPercentage": 39.59,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 7638148,
+                "bossPercentage": 85.02,
+                "lastPhaseAsAbsoluteIndex": 6
+              },
+              {
+                "id": 23,
+                "startTime": 8486349,
+                "bossPercentage": 94.59,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 24,
+                "startTime": 8721545,
+                "bossPercentage": 39.33,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 25,
+                "startTime": 8977341,
+                "bossPercentage": 53.16,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 26,
+                "startTime": 9259582,
+                "bossPercentage": 53.8,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 27,
+                "startTime": 9546011,
+                "bossPercentage": 42.03,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 28,
+                "startTime": 10190581,
+                "bossPercentage": 84.15,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 29,
+                "startTime": 10237584,
+                "bossPercentage": 37.44,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          },
+          {
+            "code": "XDMRT4YPtZm6nHFv",
+            "startTime": 1698969632405,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 33517,
+                "bossPercentage": 98.85,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 230759,
+                "bossPercentage": 2.02,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 464223,
+                "bossPercentage": 42.37,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 4,
+                "startTime": 771706,
+                "bossPercentage": 27.17,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 5,
+                "startTime": 1537989,
+                "bossPercentage": 24.93,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 6,
+                "startTime": 2284960,
+                "bossPercentage": 15.64,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 7,
+                "startTime": 3127071,
+                "bossPercentage": 68.59,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 8,
+                "startTime": 3905618,
+                "bossPercentage": 38.96,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 4167515,
+                "bossPercentage": 69.22,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 10,
+                "startTime": 4270198,
+                "bossPercentage": 72.54,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 11,
+                "startTime": 4723627,
+                "bossPercentage": 6.91,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 12,
+                "startTime": 5155689,
+                "bossPercentage": 39.76,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 13,
+                "startTime": 5327274,
+                "bossPercentage": 68,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 14,
+                "startTime": 5995163,
+                "bossPercentage": 61.96,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 15,
+                "startTime": 6596312,
+                "bossPercentage": 39.7,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 6780403,
+                "bossPercentage": 37.65,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          },
+          {
+            "code": "Rzv7Wjrqd6B8GTVc",
+            "startTime": 1698883292993,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 45029,
+                "bossPercentage": 99.18,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 262736,
+                "bossPercentage": 40.34,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 3,
+                "startTime": 568847,
+                "bossPercentage": 5.64,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 4,
+                "startTime": 926579,
+                "bossPercentage": 1.45,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 5,
+                "startTime": 1497226,
+                "bossPercentage": 39.71,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 1807829,
+                "bossPercentage": 50.46,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 7,
+                "startTime": 2458392,
+                "bossPercentage": 44.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 2601809,
+                "bossPercentage": 25.02,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 9,
+                "startTime": 3346632,
+                "bossPercentage": 66.44,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 10,
+                "startTime": 3911363,
+                "bossPercentage": 66.33,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 11,
+                "startTime": 4632118,
+                "bossPercentage": 39.36,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 4793099,
+                "bossPercentage": 25.01,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 13,
+                "startTime": 5854740,
+                "bossPercentage": 98.64,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 6068217,
+                "bossPercentage": 38.3,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 15,
+                "startTime": 6240284,
+                "bossPercentage": 25.22,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 16,
+                "startTime": 7049031,
+                "bossPercentage": 66.45,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 7143397,
+                "bossPercentage": 29.37,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 18,
+                "startTime": 7868965,
+                "bossPercentage": 39.06,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 8039291,
+                "bossPercentage": 67.34,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 20,
+                "startTime": 8637938,
+                "bossPercentage": 39.3,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 21,
+                "startTime": 9048300,
+                "bossPercentage": 50.84,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 22,
+                "startTime": 9433004,
+                "bossPercentage": 79.48,
+                "lastPhaseAsAbsoluteIndex": 6
+              }
+            ]
+          },
+          {
+            "code": "fdzrJQ18n2aBPkmG",
+            "startTime": 1698365752625,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 35197,
+                "bossPercentage": 98.85,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 271345,
+                "bossPercentage": 66.17,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 3,
+                "startTime": 857350,
+                "bossPercentage": 72.06,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 4,
+                "startTime": 1126273,
+                "bossPercentage": 0.7,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 5,
+                "startTime": 1568692,
+                "bossPercentage": 39.75,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 6,
+                "startTime": 1734573,
+                "bossPercentage": 10.02,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 7,
+                "startTime": 2301345,
+                "bossPercentage": 66.84,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 2394610,
+                "bossPercentage": 39.03,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 2563685,
+                "bossPercentage": 68.29,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 10,
+                "startTime": 2654275,
+                "bossPercentage": 29.91,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 11,
+                "startTime": 3301193,
+                "bossPercentage": 27.87,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 13,
+                "startTime": 4029332,
+                "bossPercentage": 53.26,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 14,
+                "startTime": 4326393,
+                "bossPercentage": 52.92,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 15,
+                "startTime": 4724678,
+                "bossPercentage": 42.11,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 16,
+                "startTime": 5034482,
+                "bossPercentage": 22.52,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 17,
+                "startTime": 5488613,
+                "bossPercentage": 24.66,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 18,
+                "startTime": 6128817,
+                "bossPercentage": 63.85,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 19,
+                "startTime": 6737248,
+                "bossPercentage": 43.4,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          },
+          {
+            "code": "Whg8AnJPDN7ZvGTY",
+            "startTime": 1698278447205,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 33752,
+                "bossPercentage": 59.77,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 2,
+                "startTime": 133501,
+                "bossPercentage": 99.06,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 368425,
+                "bossPercentage": 7.19,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 4,
+                "startTime": 796237,
+                "bossPercentage": 92.48,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 5,
+                "startTime": 1036320,
+                "bossPercentage": 66.58,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 6,
+                "startTime": 1134335,
+                "bossPercentage": 39.16,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 1301403,
+                "bossPercentage": 67.08,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 1418253,
+                "bossPercentage": 66.96,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 9,
+                "startTime": 1684971,
+                "bossPercentage": 32.64,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 10,
+                "startTime": 2610020,
+                "bossPercentage": 28.78,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 11,
+                "startTime": 3371987,
+                "bossPercentage": 37.94,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 3544436,
+                "bossPercentage": 56.04,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 13,
+                "startTime": 3834340,
+                "bossPercentage": 39.94,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 4010667,
+                "bossPercentage": 65.54,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 15,
+                "startTime": 4848521,
+                "bossPercentage": 2.47,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 16,
+                "startTime": 5213543,
+                "bossPercentage": 25.37,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 17,
+                "startTime": 6622301,
+                "bossPercentage": 99.21,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 6816422,
+                "bossPercentage": 28.87,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 19,
+                "startTime": 7500581,
+                "bossPercentage": 35.32,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 20,
+                "startTime": 8242837,
+                "bossPercentage": 88.12,
+                "lastPhaseAsAbsoluteIndex": 6
+              },
+              {
+                "id": 21,
+                "startTime": 9370764,
+                "bossPercentage": 39.68,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 9538904,
+                "bossPercentage": 0.01,
+                "lastPhaseAsAbsoluteIndex": 2
+              }
+            ]
+          },
+          {
+            "code": "47vLpkzQ32AbtZgx",
+            "startTime": 1697412618636,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 30823,
+                "bossPercentage": 98.86,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 227685,
+                "bossPercentage": 2.03,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 3,
+                "startTime": 577390,
+                "bossPercentage": 40.04,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 754123,
+                "bossPercentage": 61.21,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 5,
+                "startTime": 1029286,
+                "bossPercentage": 40.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 6,
+                "startTime": 1192860,
+                "bossPercentage": 47.54,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 7,
+                "startTime": 3258105,
+                "bossPercentage": 28.95,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 8,
+                "startTime": 4106234,
+                "bossPercentage": 67.53,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 4201809,
+                "bossPercentage": 67.65,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 10,
+                "startTime": 4775564,
+                "bossPercentage": 66.82,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 11,
+                "startTime": 5366661,
+                "bossPercentage": 53.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 5486345,
+                "bossPercentage": 67.1,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 13,
+                "startTime": 6154759,
+                "bossPercentage": 67.32,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 14,
+                "startTime": 6420693,
+                "bossPercentage": 68.42,
+                "lastPhaseAsAbsoluteIndex": 5
+              }
+            ]
+          },
+          {
+            "code": "B1Pg2jxWHkYrbfcT",
+            "startTime": 1697673628957,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 43483,
+                "bossPercentage": 100,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 2,
+                "startTime": 201416,
+                "bossPercentage": 99.3,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 446782,
+                "bossPercentage": 28.66,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 4,
+                "startTime": 1529786,
+                "bossPercentage": 69.11,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 5,
+                "startTime": 1709458,
+                "bossPercentage": 43.12,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 2241172,
+                "bossPercentage": 68.21,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 2576893,
+                "bossPercentage": 41.38,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 8,
+                "startTime": 3283607,
+                "bossPercentage": 39.2,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 3460133,
+                "bossPercentage": 67.45,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 10,
+                "startTime": 3569935,
+                "bossPercentage": 2.22,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 11,
+                "startTime": 3935809,
+                "bossPercentage": 42.44,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 12,
+                "startTime": 4447253,
+                "bossPercentage": 38.17,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 13,
+                "startTime": 5320586,
+                "bossPercentage": 63.99,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 14,
+                "startTime": 5422277,
+                "bossPercentage": 98.26,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 15,
+                "startTime": 5622351,
+                "bossPercentage": 41.47,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 5789156,
+                "bossPercentage": 39.66,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 5950877,
+                "bossPercentage": 66.81,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 18,
+                "startTime": 6550911,
+                "bossPercentage": 39.39,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 6723835,
+                "bossPercentage": 1.74,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 20,
+                "startTime": 7080167,
+                "bossPercentage": 66.83,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 21,
+                "startTime": 7176230,
+                "bossPercentage": 40.53,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 7355019,
+                "bossPercentage": 66.75,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 23,
+                "startTime": 7982909,
+                "bossPercentage": 38.49,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 24,
+                "startTime": 8152922,
+                "bossPercentage": 39.56,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 25,
+                "startTime": 8323692,
+                "bossPercentage": 39.66,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 26,
+                "startTime": 8536079,
+                "bossPercentage": 39.16,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 27,
+                "startTime": 8712656,
+                "bossPercentage": 100,
+                "lastPhaseAsAbsoluteIndex": 4
+              },
+              {
+                "id": 28,
+                "startTime": 9215713,
+                "bossPercentage": 67.5,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 29,
+                "startTime": 9310439,
+                "bossPercentage": 39.42,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 30,
+                "startTime": 9463919,
+                "bossPercentage": 7.59,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 31,
+                "startTime": 9818040,
+                "bossPercentage": 82.29,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 32,
+                "startTime": 10210009,
+                "bossPercentage": 45.31,
+                "lastPhaseAsAbsoluteIndex": 2
+              }
+            ]
+          },
+          {
+            "code": "92mf4LwpNWan7AXZ",
+            "startTime": 1697068910696,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 44965,
+                "bossPercentage": 99.42,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 247448,
+                "bossPercentage": 39.11,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 420330,
+                "bossPercentage": 3.33,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 4,
+                "startTime": 797008,
+                "bossPercentage": 61.63,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 5,
+                "startTime": 1095613,
+                "bossPercentage": 40.84,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 6,
+                "startTime": 1260282,
+                "bossPercentage": 50.86,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 7,
+                "startTime": 2121175,
+                "bossPercentage": 69.02,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 2215620,
+                "bossPercentage": 40.27,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 9,
+                "startTime": 2648403,
+                "bossPercentage": 1.89,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 10,
+                "startTime": 3001825,
+                "bossPercentage": 8.32,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 11,
+                "startTime": 3503928,
+                "bossPercentage": 38.89,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 3666817,
+                "bossPercentage": 42.17,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 13,
+                "startTime": 4005596,
+                "bossPercentage": 39.47,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 4186042,
+                "bossPercentage": 67.88,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 15,
+                "startTime": 4263297,
+                "bossPercentage": 21.68,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 16,
+                "startTime": 4797636,
+                "bossPercentage": 67.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 5442555,
+                "bossPercentage": 99.6,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 5640881,
+                "bossPercentage": 39.41,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 5811433,
+                "bossPercentage": 68.53,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 5900741,
+                "bossPercentage": 52.34,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 21,
+                "startTime": 6190017,
+                "bossPercentage": 68.76,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 22,
+                "startTime": 6457940,
+                "bossPercentage": 39.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 23,
+                "startTime": 6619732,
+                "bossPercentage": 41.18,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 24,
+                "startTime": 6786412,
+                "bossPercentage": 100,
+                "lastPhaseAsAbsoluteIndex": 4
+              },
+              {
+                "id": 25,
+                "startTime": 7539472,
+                "bossPercentage": 36.9,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 26,
+                "startTime": 7844245,
+                "bossPercentage": 16.53,
+                "lastPhaseAsAbsoluteIndex": 4
+              }
+            ]
+          },
+          {
+            "code": "LPGamgyJd67R2Hfk",
+            "startTime": 1697155251905,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 46428,
+                "bossPercentage": 43.94,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 2,
+                "startTime": 166449,
+                "bossPercentage": 50,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 3,
+                "startTime": 311844,
+                "bossPercentage": 99,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 503771,
+                "bossPercentage": 49.23,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 5,
+                "startTime": 921544,
+                "bossPercentage": 69.16,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 6,
+                "startTime": 1900042,
+                "bossPercentage": 67.46,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 1990178,
+                "bossPercentage": 38.04,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 2154186,
+                "bossPercentage": 59.12,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 9,
+                "startTime": 2442746,
+                "bossPercentage": 40.75,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 10,
+                "startTime": 2750029,
+                "bossPercentage": 69.6,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 2845157,
+                "bossPercentage": 67.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 2935959,
+                "bossPercentage": 67.61,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 13,
+                "startTime": 3906518,
+                "bossPercentage": 67.33,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 3989574,
+                "bossPercentage": 60.19,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 15,
+                "startTime": 4372839,
+                "bossPercentage": 67.87,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 4465550,
+                "bossPercentage": 24.8,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 17,
+                "startTime": 4891270,
+                "bossPercentage": 38.64,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 5867450,
+                "bossPercentage": 50,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 19,
+                "startTime": 6023392,
+                "bossPercentage": 98.69,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 6221962,
+                "bossPercentage": 0.01,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 21,
+                "startTime": 6667146,
+                "bossPercentage": 67.88,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 6766008,
+                "bossPercentage": 59.48,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 23,
+                "startTime": 7076893,
+                "bossPercentage": 70.56,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 24,
+                "startTime": 7968330,
+                "bossPercentage": 70.11,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 25,
+                "startTime": 8544138,
+                "bossPercentage": 46.24,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 26,
+                "startTime": 8844856,
+                "bossPercentage": 67.44,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 27,
+                "startTime": 9485731,
+                "bossPercentage": 100,
+                "lastPhaseAsAbsoluteIndex": 4
+              },
+              {
+                "id": 28,
+                "startTime": 10150043,
+                "bossPercentage": 51.22,
+                "lastPhaseAsAbsoluteIndex": 4
+              }
+            ]
+          },
+          {
+            "code": "aj4yWZ8VBtzPT2Gp",
+            "startTime": 1696552175298,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 374646,
+                "bossPercentage": 47.25,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 2,
+                "startTime": 574707,
+                "bossPercentage": 99.37,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 837125,
+                "bossPercentage": 64.03,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 4,
+                "startTime": 1114311,
+                "bossPercentage": 68.82,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 5,
+                "startTime": 1391213,
+                "bossPercentage": 48,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 1707906,
+                "bossPercentage": 41.75,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 7,
+                "startTime": 2058566,
+                "bossPercentage": 51.96,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 8,
+                "startTime": 2639157,
+                "bossPercentage": 38.46,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 2812949,
+                "bossPercentage": 57.42,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 10,
+                "startTime": 3124731,
+                "bossPercentage": 38.8,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 3303441,
+                "bossPercentage": 69.21,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 12,
+                "startTime": 3586624,
+                "bossPercentage": 68.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 13,
+                "startTime": 3676519,
+                "bossPercentage": 59.14,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 14,
+                "startTime": 4185398,
+                "bossPercentage": 67.55,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 15,
+                "startTime": 4271568,
+                "bossPercentage": 38.45,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 4448213,
+                "bossPercentage": 69.48,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 17,
+                "startTime": 4730708,
+                "bossPercentage": 69.05,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 18,
+                "startTime": 5007230,
+                "bossPercentage": 63.63,
+                "lastPhaseAsAbsoluteIndex": 2
+              }
+            ]
+          },
+          {
+            "code": "HK8Dz6YbtAMLWmfq",
+            "startTime": 1696464156547,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 39293,
+                "bossPercentage": 9.37,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 2,
+                "startTime": 178829,
+                "bossPercentage": 99.23,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 453735,
+                "bossPercentage": 38.98,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 653980,
+                "bossPercentage": 18.02,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 5,
+                "startTime": 863143,
+                "bossPercentage": 59.54,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 1162628,
+                "bossPercentage": 39.45,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 1331074,
+                "bossPercentage": 74.99,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 8,
+                "startTime": 1600645,
+                "bossPercentage": 37.64,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 1770373,
+                "bossPercentage": 67.35,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 10,
+                "startTime": 1870754,
+                "bossPercentage": 49.82,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 11,
+                "startTime": 2354262,
+                "bossPercentage": 38.24,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 2523541,
+                "bossPercentage": 6.06,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 13,
+                "startTime": 2888078,
+                "bossPercentage": 37.99,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 3045219,
+                "bossPercentage": 63.92,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 15,
+                "startTime": 3320242,
+                "bossPercentage": 5.01,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 16,
+                "startTime": 3675885,
+                "bossPercentage": 38.45,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 3845206,
+                "bossPercentage": 37.29,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 4026780,
+                "bossPercentage": 54.97,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 19,
+                "startTime": 4328203,
+                "bossPercentage": 57.08,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 20,
+                "startTime": 4621151,
+                "bossPercentage": 37.41,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 21,
+                "startTime": 4770759,
+                "bossPercentage": 61.75,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 22,
+                "startTime": 5699165,
+                "bossPercentage": 98.51,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 23,
+                "startTime": 6283575,
+                "bossPercentage": 44.04,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 24,
+                "startTime": 6469219,
+                "bossPercentage": 38.48,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 25,
+                "startTime": 6639394,
+                "bossPercentage": 1.14,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 26,
+                "startTime": 7157139,
+                "bossPercentage": 41.94,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 27,
+                "startTime": 7472453,
+                "bossPercentage": 38.14,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 28,
+                "startTime": 7648813,
+                "bossPercentage": 81.18,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 29,
+                "startTime": 8097220,
+                "bossPercentage": 62.65,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 30,
+                "startTime": 8383181,
+                "bossPercentage": 63.72,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 31,
+                "startTime": 8666873,
+                "bossPercentage": 38.35,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 32,
+                "startTime": 8842696,
+                "bossPercentage": 40.08,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 33,
+                "startTime": 9145520,
+                "bossPercentage": 76.54,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 34,
+                "startTime": 9411768,
+                "bossPercentage": 38.96,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 35,
+                "startTime": 9579982,
+                "bossPercentage": 37.61,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 36,
+                "startTime": 9758489,
+                "bossPercentage": 75.67,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 37,
+                "startTime": 10026623,
+                "bossPercentage": 39.58,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          },
+          {
+            "code": "ZA1dtmVwa3zCYTxB",
+            "startTime": 1696118499405,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 78195,
+                "bossPercentage": 7.34,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 2,
+                "startTime": 212444,
+                "bossPercentage": 99.14,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 400096,
+                "bossPercentage": 38.98,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 571640,
+                "bossPercentage": 64.49,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 5,
+                "startTime": 859451,
+                "bossPercentage": 67.01,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 1151167,
+                "bossPercentage": 40.27,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 1332334,
+                "bossPercentage": 43.28,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 8,
+                "startTime": 1774451,
+                "bossPercentage": 39.55,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 1954080,
+                "bossPercentage": 43.24,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 10,
+                "startTime": 2301933,
+                "bossPercentage": 57.41,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 11,
+                "startTime": 2689168,
+                "bossPercentage": 2.52,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 12,
+                "startTime": 3174656,
+                "bossPercentage": 42.44,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 13,
+                "startTime": 3351777,
+                "bossPercentage": 61.57,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 14,
+                "startTime": 3787433,
+                "bossPercentage": 58.56,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 15,
+                "startTime": 4113231,
+                "bossPercentage": 58.1,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 16,
+                "startTime": 4411568,
+                "bossPercentage": 71.59,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 17,
+                "startTime": 4738810,
+                "bossPercentage": 66.25,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 18,
+                "startTime": 5044564,
+                "bossPercentage": 52.36,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 5166266,
+                "bossPercentage": 73.72,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 20,
+                "startTime": 5431190,
+                "bossPercentage": 54.65,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 21,
+                "startTime": 5718133,
+                "bossPercentage": 59.15,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 22,
+                "startTime": 6143300,
+                "bossPercentage": 68.31,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 23,
+                "startTime": 6237880,
+                "bossPercentage": 68.44,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 24,
+                "startTime": 6331276,
+                "bossPercentage": 38.54,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 25,
+                "startTime": 6493398,
+                "bossPercentage": 67.85,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 26,
+                "startTime": 6756484,
+                "bossPercentage": 44.49,
+                "lastPhaseAsAbsoluteIndex": 2
+              }
+            ]
+          },
+          {
+            "code": "HrYCAwBdRzkfJ8LG",
+            "startTime": 1695945645173,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 39066,
+                "bossPercentage": 22.2,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 2,
+                "startTime": 171745,
+                "bossPercentage": 99.05,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 561102,
+                "bossPercentage": 40.58,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 747009,
+                "bossPercentage": 66.92,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 5,
+                "startTime": 1226182,
+                "bossPercentage": 73.83,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 1490921,
+                "bossPercentage": 70.07,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 7,
+                "startTime": 1847642,
+                "bossPercentage": 39.81,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 2014132,
+                "bossPercentage": 67.33,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 2096901,
+                "bossPercentage": 39.7,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 10,
+                "startTime": 2262306,
+                "bossPercentage": 40.49,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 2425487,
+                "bossPercentage": 59.34,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 12,
+                "startTime": 2829917,
+                "bossPercentage": 39.19,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 13,
+                "startTime": 2991770,
+                "bossPercentage": 70.5,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 14,
+                "startTime": 3266460,
+                "bossPercentage": 40.68,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 15,
+                "startTime": 3437502,
+                "bossPercentage": 59.43,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 16,
+                "startTime": 3756123,
+                "bossPercentage": 38.5,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 3927311,
+                "bossPercentage": 67.75,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 4009289,
+                "bossPercentage": 66.96,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 4104142,
+                "bossPercentage": 38.64,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 4369529,
+                "bossPercentage": 39.26,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 21,
+                "startTime": 4533440,
+                "bossPercentage": 39.47,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 4704595,
+                "bossPercentage": 59.67,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 23,
+                "startTime": 5030656,
+                "bossPercentage": 67.24,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 24,
+                "startTime": 5124564,
+                "bossPercentage": 73.38,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 25,
+                "startTime": 6153827,
+                "bossPercentage": 56.19,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 26,
+                "startTime": 6254316,
+                "bossPercentage": 100,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 27,
+                "startTime": 6418427,
+                "bossPercentage": 63.1,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 28,
+                "startTime": 6519345,
+                "bossPercentage": 35.84,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 29,
+                "startTime": 6613994,
+                "bossPercentage": 100,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 30,
+                "startTime": 6775316,
+                "bossPercentage": 18.42,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 31,
+                "startTime": 6904086,
+                "bossPercentage": 50,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 32,
+                "startTime": 7059197,
+                "bossPercentage": 17.15,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 33,
+                "startTime": 7193964,
+                "bossPercentage": 98.83,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 34,
+                "startTime": 7384023,
+                "bossPercentage": 39.81,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 35,
+                "startTime": 7538087,
+                "bossPercentage": 39.92,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 36,
+                "startTime": 7701806,
+                "bossPercentage": 68.89,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 37,
+                "startTime": 7978911,
+                "bossPercentage": 65.82,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 38,
+                "startTime": 8432980,
+                "bossPercentage": 72.68,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 39,
+                "startTime": 8740107,
+                "bossPercentage": 38.96,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 40,
+                "startTime": 8907855,
+                "bossPercentage": 71.24,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 41,
+                "startTime": 9220023,
+                "bossPercentage": 70.17,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 42,
+                "startTime": 9496983,
+                "bossPercentage": 57.24,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 44,
+                "startTime": 10027732,
+                "bossPercentage": 69.09,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 45,
+                "startTime": 10295059,
+                "bossPercentage": 38.38,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 46,
+                "startTime": 10465724,
+                "bossPercentage": 39.65,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          },
+          {
+            "code": "2hjL3raQq8AnxwfX",
+            "startTime": 1695513666683,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 32762,
+                "bossPercentage": 98.56,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 241143,
+                "bossPercentage": 40.95,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 490255,
+                "bossPercentage": 38.5,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 665599,
+                "bossPercentage": 39.72,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 5,
+                "startTime": 831298,
+                "bossPercentage": 40.71,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 6,
+                "startTime": 1314824,
+                "bossPercentage": 66.84,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 1397090,
+                "bossPercentage": 88.35,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 8,
+                "startTime": 1742642,
+                "bossPercentage": 79.52,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 10,
+                "startTime": 2690518,
+                "bossPercentage": 38.31,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 2872074,
+                "bossPercentage": 39.33,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 3053412,
+                "bossPercentage": 38.9,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 13,
+                "startTime": 3253008,
+                "bossPercentage": 40.12,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 3434962,
+                "bossPercentage": 65.26,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 15,
+                "startTime": 4170339,
+                "bossPercentage": 67.85,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 4249289,
+                "bossPercentage": 73.61,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 17,
+                "startTime": 4747070,
+                "bossPercentage": 41.33,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 5101767,
+                "bossPercentage": 72.72,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 19,
+                "startTime": 5585227,
+                "bossPercentage": 67.37,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 5681782,
+                "bossPercentage": 39,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 21,
+                "startTime": 5869329,
+                "bossPercentage": 39.23,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 6048713,
+                "bossPercentage": 39.5,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 23,
+                "startTime": 6229033,
+                "bossPercentage": 73.97,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 24,
+                "startTime": 6553337,
+                "bossPercentage": 63.09,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 25,
+                "startTime": 6841151,
+                "bossPercentage": 39.72,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 26,
+                "startTime": 7030478,
+                "bossPercentage": 69.15,
+                "lastPhaseAsAbsoluteIndex": 2
+              }
+            ]
+          },
+          {
+            "code": "DjmHw6A71bgCF4az",
+            "startTime": 1695341860370,
+            "fights": [
+              {
+                "id": 2,
+                "startTime": 228270,
+                "bossPercentage": 22.38,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 3,
+                "startTime": 354347,
+                "bossPercentage": 98.03,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 610770,
+                "bossPercentage": 39.28,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 5,
+                "startTime": 776254,
+                "bossPercentage": 70,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 6,
+                "startTime": 865949,
+                "bossPercentage": 69.13,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 950834,
+                "bossPercentage": 41.79,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 1119734,
+                "bossPercentage": 67.52,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 1228118,
+                "bossPercentage": 41.24,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 10,
+                "startTime": 1389692,
+                "bossPercentage": 68.75,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 1711326,
+                "bossPercentage": 71.43,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 1804510,
+                "bossPercentage": 68.02,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 13,
+                "startTime": 1898689,
+                "bossPercentage": 67.95,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 2009989,
+                "bossPercentage": 48.6,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 15,
+                "startTime": 2238516,
+                "bossPercentage": 41.16,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 2502874,
+                "bossPercentage": 69.62,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 2718127,
+                "bossPercentage": 46.22,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 2884102,
+                "bossPercentage": 50.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 3085818,
+                "bossPercentage": 40.47,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 3268642,
+                "bossPercentage": 67.48,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 21,
+                "startTime": 3388449,
+                "bossPercentage": 68.22,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 3490588,
+                "bossPercentage": 68.42,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 23,
+                "startTime": 3584174,
+                "bossPercentage": 46.49,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 24,
+                "startTime": 3757650,
+                "bossPercentage": 67.72,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 25,
+                "startTime": 3853712,
+                "bossPercentage": 40.8,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 26,
+                "startTime": 4016533,
+                "bossPercentage": 82.67,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 27,
+                "startTime": 4061264,
+                "bossPercentage": 50,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 28,
+                "startTime": 4249905,
+                "bossPercentage": 88.08,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 29,
+                "startTime": 4366036,
+                "bossPercentage": 67.21,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 30,
+                "startTime": 5119823,
+                "bossPercentage": 20.02,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 31,
+                "startTime": 5270869,
+                "bossPercentage": 49.29,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 32,
+                "startTime": 5357169,
+                "bossPercentage": 30.97,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 33,
+                "startTime": 5547061,
+                "bossPercentage": 72.74,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 34,
+                "startTime": 5599432,
+                "bossPercentage": 98.18,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 35,
+                "startTime": 5809054,
+                "bossPercentage": 68.56,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 36,
+                "startTime": 5896550,
+                "bossPercentage": 68.67,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 37,
+                "startTime": 5990485,
+                "bossPercentage": 68.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 38,
+                "startTime": 6085786,
+                "bossPercentage": 44.44,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 39,
+                "startTime": 6272733,
+                "bossPercentage": 42.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 40,
+                "startTime": 6426675,
+                "bossPercentage": 41.98,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 41,
+                "startTime": 6595823,
+                "bossPercentage": 38.6,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 42,
+                "startTime": 6749059,
+                "bossPercentage": 67.4,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 43,
+                "startTime": 6838560,
+                "bossPercentage": 44.99,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 44,
+                "startTime": 6991513,
+                "bossPercentage": 45.83,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 45,
+                "startTime": 7144456,
+                "bossPercentage": 42.83,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 46,
+                "startTime": 7494313,
+                "bossPercentage": 68.34,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 47,
+                "startTime": 7595637,
+                "bossPercentage": 68.08,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 48,
+                "startTime": 7699854,
+                "bossPercentage": 68.48,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 49,
+                "startTime": 7831934,
+                "bossPercentage": 45.86,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 50,
+                "startTime": 7985586,
+                "bossPercentage": 68.1,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 51,
+                "startTime": 8078182,
+                "bossPercentage": 45.86,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 52,
+                "startTime": 8241018,
+                "bossPercentage": 39.3,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 53,
+                "startTime": 8405498,
+                "bossPercentage": 38.81,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 54,
+                "startTime": 8567153,
+                "bossPercentage": 67.03,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 55,
+                "startTime": 8662446,
+                "bossPercentage": 45.88,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 56,
+                "startTime": 8868429,
+                "bossPercentage": 39.58,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 57,
+                "startTime": 9034295,
+                "bossPercentage": 67.18,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 58,
+                "startTime": 9138340,
+                "bossPercentage": 38.58,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 59,
+                "startTime": 9295657,
+                "bossPercentage": 46.25,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          },
+          {
+            "code": "zxnVKpY6bQvt12Bf",
+            "startTime": 1694909967048,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 32321,
+                "bossPercentage": 99.89,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 228098,
+                "bossPercentage": 82.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 3,
+                "startTime": 279530,
+                "bossPercentage": 69.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 360597,
+                "bossPercentage": 68.16,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 5,
+                "startTime": 442982,
+                "bossPercentage": 71.94,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 6,
+                "startTime": 525466,
+                "bossPercentage": 68.56,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 7,
+                "startTime": 626000,
+                "bossPercentage": 41.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 8,
+                "startTime": 781478,
+                "bossPercentage": 40.98,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 944268,
+                "bossPercentage": 44.21,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 10,
+                "startTime": 1161673,
+                "bossPercentage": 98.18,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 1237463,
+                "bossPercentage": 67.27,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 12,
+                "startTime": 1382510,
+                "bossPercentage": 39.82,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 13,
+                "startTime": 1603329,
+                "bossPercentage": 39.02,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 14,
+                "startTime": 1774472,
+                "bossPercentage": 68.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 15,
+                "startTime": 1856409,
+                "bossPercentage": 40.38,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 2019157,
+                "bossPercentage": 41.75,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 2159462,
+                "bossPercentage": 40.15,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 2450910,
+                "bossPercentage": 40.71,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 2639212,
+                "bossPercentage": 39.56,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 2821247,
+                "bossPercentage": 40.88,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 21,
+                "startTime": 3203149,
+                "bossPercentage": 39.79,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 3370062,
+                "bossPercentage": 68.44,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 23,
+                "startTime": 3469454,
+                "bossPercentage": 39.51,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 24,
+                "startTime": 3639557,
+                "bossPercentage": 39.01,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 25,
+                "startTime": 3826393,
+                "bossPercentage": 41.55,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 26,
+                "startTime": 3990915,
+                "bossPercentage": 41.39,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 27,
+                "startTime": 4157246,
+                "bossPercentage": 39.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 28,
+                "startTime": 4313772,
+                "bossPercentage": 70.18,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 29,
+                "startTime": 4409400,
+                "bossPercentage": 41.11,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 30,
+                "startTime": 4614079,
+                "bossPercentage": 40.34,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 31,
+                "startTime": 4776693,
+                "bossPercentage": 38.8,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 32,
+                "startTime": 4946831,
+                "bossPercentage": 39.99,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 33,
+                "startTime": 5304415,
+                "bossPercentage": 40.53,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 34,
+                "startTime": 5489141,
+                "bossPercentage": 39.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 35,
+                "startTime": 5659389,
+                "bossPercentage": 67.77,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 36,
+                "startTime": 5757239,
+                "bossPercentage": 67.31,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 37,
+                "startTime": 5851744,
+                "bossPercentage": 40.47,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 38,
+                "startTime": 6003648,
+                "bossPercentage": 69.46,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 39,
+                "startTime": 6106055,
+                "bossPercentage": 40.05,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 41,
+                "startTime": 6339998,
+                "bossPercentage": 69.02,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 42,
+                "startTime": 6422621,
+                "bossPercentage": 38.92,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 43,
+                "startTime": 6622207,
+                "bossPercentage": 38.63,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 44,
+                "startTime": 6903233,
+                "bossPercentage": 68.05,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 45,
+                "startTime": 6997065,
+                "bossPercentage": 44.4,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 46,
+                "startTime": 7165341,
+                "bossPercentage": 68.36,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 47,
+                "startTime": 7281206,
+                "bossPercentage": 68.57,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 48,
+                "startTime": 7380082,
+                "bossPercentage": 68.88,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 49,
+                "startTime": 7495446,
+                "bossPercentage": 68.67,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 50,
+                "startTime": 7574719,
+                "bossPercentage": 40.11,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          },
+          {
+            "code": "MjgnFm4VwAckCaH3",
+            "startTime": 1694736030477,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 104718,
+                "bossPercentage": 69.06,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 2,
+                "startTime": 163843,
+                "bossPercentage": 67.27,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 3,
+                "startTime": 221985,
+                "bossPercentage": 48.02,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 4,
+                "startTime": 479257,
+                "bossPercentage": 41.77,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 5,
+                "startTime": 580563,
+                "bossPercentage": 67.68,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 6,
+                "startTime": 634760,
+                "bossPercentage": 31.55,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 7,
+                "startTime": 755672,
+                "bossPercentage": 43.76,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 8,
+                "startTime": 941126,
+                "bossPercentage": 38.47,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 9,
+                "startTime": 1041398,
+                "bossPercentage": 100,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 10,
+                "startTime": 1209850,
+                "bossPercentage": 46.8,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 11,
+                "startTime": 1573832,
+                "bossPercentage": 38.34,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 12,
+                "startTime": 1669017,
+                "bossPercentage": 39.31,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 13,
+                "startTime": 1797200,
+                "bossPercentage": 36.95,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 14,
+                "startTime": 1901995,
+                "bossPercentage": 37.87,
+                "lastPhaseAsAbsoluteIndex": 0
+              },
+              {
+                "id": 15,
+                "startTime": 1998695,
+                "bossPercentage": 98.9,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 16,
+                "startTime": 2350640,
+                "bossPercentage": 72.58,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 17,
+                "startTime": 2515976,
+                "bossPercentage": 70.39,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 18,
+                "startTime": 2637245,
+                "bossPercentage": 71.72,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 19,
+                "startTime": 2722213,
+                "bossPercentage": 67.42,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 20,
+                "startTime": 2826882,
+                "bossPercentage": 69.15,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 21,
+                "startTime": 2914901,
+                "bossPercentage": 70.27,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 22,
+                "startTime": 3041398,
+                "bossPercentage": 67.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 23,
+                "startTime": 3136114,
+                "bossPercentage": 68.97,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 24,
+                "startTime": 3276977,
+                "bossPercentage": 42.1,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 25,
+                "startTime": 3801415,
+                "bossPercentage": 69.14,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 26,
+                "startTime": 3897874,
+                "bossPercentage": 68.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 27,
+                "startTime": 3985611,
+                "bossPercentage": 68.91,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 28,
+                "startTime": 4080297,
+                "bossPercentage": 69.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 29,
+                "startTime": 4174783,
+                "bossPercentage": 75.6,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 30,
+                "startTime": 4242619,
+                "bossPercentage": 69.05,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 31,
+                "startTime": 4330840,
+                "bossPercentage": 83.24,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 32,
+                "startTime": 4388006,
+                "bossPercentage": 67.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 33,
+                "startTime": 4476166,
+                "bossPercentage": 71.51,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 34,
+                "startTime": 4563781,
+                "bossPercentage": 68.62,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 35,
+                "startTime": 4651203,
+                "bossPercentage": 68.32,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 36,
+                "startTime": 4738596,
+                "bossPercentage": 68.78,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 37,
+                "startTime": 4828205,
+                "bossPercentage": 73.36,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 38,
+                "startTime": 4917718,
+                "bossPercentage": 68.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 39,
+                "startTime": 5015556,
+                "bossPercentage": 67.22,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 40,
+                "startTime": 5112015,
+                "bossPercentage": 66.67,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 41,
+                "startTime": 5233320,
+                "bossPercentage": 72.1,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 42,
+                "startTime": 5331974,
+                "bossPercentage": 79.58,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 43,
+                "startTime": 5380841,
+                "bossPercentage": 68.34,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 44,
+                "startTime": 5479206,
+                "bossPercentage": 43.67,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 45,
+                "startTime": 5662339,
+                "bossPercentage": 67.07,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 46,
+                "startTime": 5766327,
+                "bossPercentage": 70.8,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 47,
+                "startTime": 5883452,
+                "bossPercentage": 68.04,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 48,
+                "startTime": 5980640,
+                "bossPercentage": 68.08,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 49,
+                "startTime": 6066340,
+                "bossPercentage": 68.87,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 50,
+                "startTime": 6157125,
+                "bossPercentage": 50.95,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 51,
+                "startTime": 6345662,
+                "bossPercentage": 68.43,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 52,
+                "startTime": 6433023,
+                "bossPercentage": 72.34,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 53,
+                "startTime": 6548650,
+                "bossPercentage": 67.75,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 54,
+                "startTime": 6636023,
+                "bossPercentage": 40.35,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 55,
+                "startTime": 6782058,
+                "bossPercentage": 69.12,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 56,
+                "startTime": 6864559,
+                "bossPercentage": 43.76,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 57,
+                "startTime": 7027720,
+                "bossPercentage": 40.81,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 58,
+                "startTime": 7189941,
+                "bossPercentage": 40.12,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 59,
+                "startTime": 7467267,
+                "bossPercentage": 67.39,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 60,
+                "startTime": 7554947,
+                "bossPercentage": 70.39,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 61,
+                "startTime": 7657217,
+                "bossPercentage": 67.51,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 62,
+                "startTime": 7746430,
+                "bossPercentage": 67.93,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 63,
+                "startTime": 8547698,
+                "bossPercentage": 98.49,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 64,
+                "startTime": 8741372,
+                "bossPercentage": 67.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 65,
+                "startTime": 8833914,
+                "bossPercentage": 68.37,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 66,
+                "startTime": 8917248,
+                "bossPercentage": 79.82,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 67,
+                "startTime": 8964679,
+                "bossPercentage": 67.95,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 68,
+                "startTime": 9053677,
+                "bossPercentage": 83.16,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 69,
+                "startTime": 9112480,
+                "bossPercentage": 83.33,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 70,
+                "startTime": 9160815,
+                "bossPercentage": 51.74,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 71,
+                "startTime": 9319605,
+                "bossPercentage": 67.45,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 72,
+                "startTime": 9418307,
+                "bossPercentage": 70.98,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 73,
+                "startTime": 9517096,
+                "bossPercentage": 67.63,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 74,
+                "startTime": 9598907,
+                "bossPercentage": 63.81,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 75,
+                "startTime": 9730888,
+                "bossPercentage": 47.46,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 76,
+                "startTime": 9883160,
+                "bossPercentage": 67.77,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 77,
+                "startTime": 9968092,
+                "bossPercentage": 68.62,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 78,
+                "startTime": 10052444,
+                "bossPercentage": 85.5,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 79,
+                "startTime": 10093552,
+                "bossPercentage": 41.41,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 80,
+                "startTime": 10275209,
+                "bossPercentage": 42.96,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 81,
+                "startTime": 10435953,
+                "bossPercentage": 68.99,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 82,
+                "startTime": 10537373,
+                "bossPercentage": 67.28,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 83,
+                "startTime": 10621288,
+                "bossPercentage": 70.07,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 84,
+                "startTime": 10714600,
+                "bossPercentage": 68.71,
+                "lastPhaseAsAbsoluteIndex": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
 }
