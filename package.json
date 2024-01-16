@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "scripts": {
     "ng": "ng",
-    "generate": "ts-node ./src/generator/index.ts /dist/out.svg",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",

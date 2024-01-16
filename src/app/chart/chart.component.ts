@@ -2,6 +2,10 @@ import { Component, Input } from '@angular/core';
 import * as Highcharts from 'highcharts';
 import { YAxisPlotLinesOptions } from 'highcharts';
 
+//@ts-ignore
+import * as MouseWheelZoom from 'highcharts/modules/mouse-wheel-zoom.js';
+MouseWheelZoom(Highcharts);
+
 @Component({
   selector: 'app-chart',
   templateUrl: './chart.component.html',
@@ -31,6 +35,15 @@ export class ChartComponent {
         },
         plotLines: this.plotLines,
       },
+      chart: {
+        zooming: {
+          mouseWheel: true,
+        },
+        panning: {
+          enabled: true,
+          type: 'x',
+        },
+      },
       xAxis: {
         title: {
           text: 'Pulls',
@@ -39,8 +52,8 @@ export class ChartComponent {
       series: [
         {
           data,
-          type: 'line',
-          name: 'Pulls'
+          type: 'scatter',
+          name: 'Pulls',
         },
       ],
       credits: {

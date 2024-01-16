@@ -11,6 +11,7 @@ const DSR_PHASES = 8;
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
+  // TODO(Matt): Pull logs in from API directly, hopefully with caching mechanism
   formattedLogs = logs.data.reportData.reports.data
     .filter((x) => x.fights.length !== 0)
     .reduce((acc, curr) => {
