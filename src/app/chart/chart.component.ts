@@ -1,9 +1,10 @@
 import { Component, Input } from '@angular/core';
 import * as Highcharts from 'highcharts';
-import { YAxisPlotLinesOptions } from 'highcharts';
 
+import { YAxisPlotLinesOptions } from 'highcharts';
 //@ts-ignore
 import * as MouseWheelZoom from 'highcharts/modules/mouse-wheel-zoom.js';
+import { GraphingData } from '../interfaces';
 MouseWheelZoom(Highcharts);
 
 @Component({
@@ -12,17 +13,8 @@ MouseWheelZoom(Highcharts);
   styleUrls: ['./chart.component.css'],
 })
 export class ChartComponent {
-  private plotLines: YAxisPlotLinesOptions[] = new Array(7)
-    .fill(0)
-    .map((_, i) => ({
-      label: {
-        text: 'P' + (i + 2),
-      },
-      value: 12.5 * (i + 1),
-    }));
-
   @Input({ required: true })
-  set data(data: number[][]) {
+  set data(data: GraphingData) {
     this.chartOptions = {
       title: {
         text: 'DSR PROG',
@@ -30,15 +22,22 @@ export class ChartComponent {
       yAxis: {
         min: 0,
         max: 100,
-        title: {
-          text: 'Progression',
+        offset: 15,
+        tickAmount: 0,
+        labels: {
+          format: '{value}%',
+          enabled: false,
         },
-        plotLines: this.plotLines,
+        title: {
+          text: 'Progression (%)',
+        },
+        plotLines: this.formatPlotlines(data),
       },
       chart: {
         zooming: {
-          mouseWheel: true,
+          type: 'x',
         },
+        panKey: 'alt',
         panning: {
           enabled: true,
           type: 'x',
@@ -51,7 +50,7 @@ export class ChartComponent {
       },
       series: [
         {
-          data,
+          data: data.points,
           type: 'scatter',
           name: 'Pulls',
         },
@@ -60,6 +59,17 @@ export class ChartComponent {
         enabled: false,
       },
     };
+  }
+
+  private formatPlotlines(data: GraphingData): YAxisPlotLinesOptions[] {
+    return [...data.first.entries()].map(([phase, percentage]) => ({
+      value: percentage,
+      dashStyle: 'dash' as any,
+      label: {
+        text: phase,
+        x: -10,
+      },
+    }));
   }
 
   Highcharts: typeof Highcharts = Highcharts;
