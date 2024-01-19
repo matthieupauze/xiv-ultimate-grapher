@@ -4,6 +4,126 @@
       "reports": {
         "data": [
           {
+            "code": "9Z4xwHTFRD73h2jg",
+            "startTime": 1705539651774,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 34681,
+                "bossPercentage": 99.33,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 295816,
+                "bossPercentage": 88.56,
+                "lastPhaseAsAbsoluteIndex": 7
+              },
+              {
+                "id": 3,
+                "startTime": 1297895,
+                "bossPercentage": 38.64,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 4,
+                "startTime": 1473433,
+                "bossPercentage": 53.94,
+                "lastPhaseAsAbsoluteIndex": 7
+              },
+              {
+                "id": 5,
+                "startTime": 2830463,
+                "bossPercentage": 3.27,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 6,
+                "startTime": 3354295,
+                "bossPercentage": 68.1,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 7,
+                "startTime": 3622437,
+                "bossPercentage": 6.71,
+                "lastPhaseAsAbsoluteIndex": 7
+              },
+              {
+                "id": 8,
+                "startTime": 5723175,
+                "bossPercentage": 99.57,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 9,
+                "startTime": 5916469,
+                "bossPercentage": 54.7,
+                "lastPhaseAsAbsoluteIndex": 2
+              },
+              {
+                "id": 10,
+                "startTime": 6204259,
+                "bossPercentage": 38.57,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 11,
+                "startTime": 6377599,
+                "bossPercentage": 29.16,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 12,
+                "startTime": 7060758,
+                "bossPercentage": 59.55,
+                "lastPhaseAsAbsoluteIndex": 6
+              },
+              {
+                "id": 13,
+                "startTime": 7829399,
+                "bossPercentage": 23.72,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 14,
+                "startTime": 8483563,
+                "bossPercentage": 84.4,
+                "lastPhaseAsAbsoluteIndex": 3
+              },
+              {
+                "id": 15,
+                "startTime": 8877523,
+                "bossPercentage": 51.09,
+                "lastPhaseAsAbsoluteIndex": 7
+              }
+            ]
+          },
+          {
+            "code": "zTN3G12XKM8Q7dHx",
+            "startTime": 1705626064323,
+            "fights": [
+              {
+                "id": 1,
+                "startTime": 34544,
+                "bossPercentage": 99.73,
+                "lastPhaseAsAbsoluteIndex": 1
+              },
+              {
+                "id": 2,
+                "startTime": 272237,
+                "bossPercentage": 67.21,
+                "lastPhaseAsAbsoluteIndex": 5
+              },
+              {
+                "id": 3,
+                "startTime": 828328,
+                "bossPercentage": 0.01,
+                "lastPhaseAsAbsoluteIndex": 7
+              }
+            ]
+          },
+          {
             "code": "Bz8yMg6Ln4HRFajh",
             "startTime": 1705194317524,
             "fights": [
