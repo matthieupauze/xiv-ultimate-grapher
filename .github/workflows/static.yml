@@ -34,7 +34,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build
-        run: npm build:prod
+        run: npm run build:prod
       - name: Upload build
         if: success()
         uses: actions/upload-artifact@v4
