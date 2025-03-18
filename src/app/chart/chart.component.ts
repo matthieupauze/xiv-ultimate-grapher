@@ -47,6 +47,7 @@ export class ChartComponent {
         title: {
           text: 'Pulls',
         },
+        plotLines: this.formatDayLines(data),
       },
       series: [
         {
@@ -70,6 +71,14 @@ export class ChartComponent {
         x: -10,
       },
     }));
+  }
+
+  private formatDayLines(data: GraphingData): Highcharts.XAxisPlotLinesOptions[] {
+    return data.startTimes.map((x, i) => ({
+      value: x,
+      dashStyle: 'LongDash',
+      label: { text: (i + 1).toString(), rotation: 0, y: -5 }
+    }))
   }
 
   Highcharts: typeof Highcharts = Highcharts;

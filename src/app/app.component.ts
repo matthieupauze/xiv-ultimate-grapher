@@ -28,34 +28,29 @@ export class AppComponent {
       fights: x.fights.filter((x) => x.bossPercentage != null) as CleanFight[],
     }))
     .filter((x) => x.fights.length !== 0)
-    .reduce<CleanFight[]>((acc, curr) => {
-      curr.fights
-        .filter((f) => f.bossPercentage != null)
-        .forEach((x) =>
-          acc.push({
-            ...x,
-            bossPercentage: 100 - x.bossPercentage,
-            startTime: x.startTime + curr.startTime,
-          })
-        );
-      return acc;
-    }, [])
+    .flatMap((curr) => {
+      return curr.fights.map((x) => ({
+        ...x,
+        bossPercentage: 100 - x.bossPercentage,
+        startTime: x.startTime + curr.startTime,
+      }));
+    })
     .sort((a, b) => a.startTime - b.startTime)
-    .reduce<GraphingData>(
-      (acc, currentFight, i) => {
-        const phasef = phaseMap.get(currentFight.lastPhaseAsAbsoluteIndex)!;
-        const totalFightPercentage = this.fightToPercentage(currentFight);
+    .reduce<GraphingData>((acc, currentFight, index) => {
+      const phasef = phaseMap.get(currentFight.lastPhaseAsAbsoluteIndex)!;
+      const totalFightPercentage = this.fightToPercentage(currentFight);
 
-        if (!acc.first.has(phasef)) {
-          acc.first.set(phasef, totalFightPercentage);
-        }
+      if (!acc.first.has(phasef)) {
+        acc.first.set(phasef, totalFightPercentage);
+      }
 
-        acc.points.push([i, totalFightPercentage]);
-        return acc;
-      },
+      acc.points.push([index, totalFightPercentage]);
+      return acc;
+    },
       {
         points: [],
         first: new Map(),
+        startTimes: this.getStartTimes(logs)
       }
     );
 
@@ -64,5 +59,18 @@ export class AppComponent {
       (fight.lastPhaseAsAbsoluteIndex * 100 + fight.bossPercentage) /
       DSR_PHASES
     ).toFixed(2);
+  }
+
+  private getStartTimes(logs: Logs) {
+    const fights = logs.data.reportData.reports.data.sort((a, b) => a.startTime - b.startTime);
+    const out = [];
+    let pullCounter = 0;
+
+    for (const fight of fights) {
+      out.push(pullCounter);
+      pullCounter += fight.fights.length;
+    }
+
+    return out;
   }
 }

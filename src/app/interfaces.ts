@@ -5,11 +5,17 @@ export type Fight = {
   lastPhaseAsAbsoluteIndex: number;
 };
 
-export type CleanFight = Fight & { bossPercentage: number };
+export type CleanFight = {
+  id: number;
+  startTime: number;
+  bossPercentage: number;
+  lastPhaseAsAbsoluteIndex: number;
+}
 
 export type GraphingData = {
   points: number[][];
   first: Map<string, number>;
+  startTimes: number[];
 };
 
 export type Logs = {
