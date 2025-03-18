@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --configuration production --base-href https://meatcow.github.io/xiv-ultimate-grapher/",
+    "build:prod": "ng build --configuration production --base-href https://matthieupauze.github.io/xiv-ultimate-grapher/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
