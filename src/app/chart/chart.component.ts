@@ -17,7 +17,7 @@ export class ChartComponent {
   set data(data: GraphingData) {
     this.chartOptions = {
       title: {
-        text: 'DSR PROG',
+        text: data.title,
       },
       yAxis: {
         min: 0,

@@ -13,21 +13,24 @@ export type CleanFight = {
 }
 
 export type GraphingData = {
+  title: string;
   points: number[][];
   first: Map<string, number>;
   startTimes: number[];
 };
 
-export type Logs = {
+export type LogsFile = {
   data: {
     reportData: {
       reports: {
-        data: {
-          code: string;
-          startTime: number;
-          fights: Fight[];
-        }[];
+        data: LogData[];
       };
     };
   };
 };
+
+export type LogData = {
+  code: string;
+  startTime: number;
+  fights: Fight[];
+}

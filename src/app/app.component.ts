@@ -1,19 +1,33 @@
 import { Component } from '@angular/core';
-import { CleanFight, GraphingData, Logs } from './interfaces';
+import { CleanFight, GraphingData, LogData, LogsFile } from './interfaces';
 
-const logs: Logs = require('../assets/logs.json');
-
-const DSR_PHASES = 8;
-const phaseMap = new Map([
-  // [0, 'P1'],
-  [1, 'P2'],
-  [2, 'P3'],
-  [3, 'P4'],
-  [4, 'I1'],
-  [5, 'P5'],
-  [6, 'P6'],
-  [7, 'P7'],
-]);
+const encounters = [{
+  name: 'DSR',
+  logs: readJsonFight('dsr'),
+  phases: 8,
+  phaseNames: {
+    // 0: 'P1',
+    1: 'P2',
+    2: 'P3',
+    3: 'P4',
+    4: 'I1',
+    5: 'P5',
+    6: 'P6',
+    7: 'P7',
+  }
+},
+{
+  name: 'FRU',
+  logs: readJsonFight('fru'),
+  phases: 5,
+  phaseNames: {
+    // 0: 'P1',
+    1: 'P2',
+    2: 'P3',
+    3: 'P4',
+    4: 'P5',
+  } as Record<number, string>
+}]
 
 @Component({
   selector: 'app-root',
@@ -21,48 +35,61 @@ const phaseMap = new Map([
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  // TODO(Matt): Pull logs in from API directly, hopefully with caching mechanism
-  formattedLogs: GraphingData = logs.data.reportData.reports.data
-    .map((x) => ({
-      ...x,
-      fights: x.fights.filter((x) => x.bossPercentage != null) as CleanFight[],
-    }))
-    .filter((x) => x.fights.length !== 0)
-    .flatMap((curr) => {
-      return curr.fights.map((x) => ({
-        ...x,
-        bossPercentage: 100 - x.bossPercentage,
-        startTime: x.startTime + curr.startTime,
-      }));
-    })
-    .sort((a, b) => a.startTime - b.startTime)
-    .reduce<GraphingData>((acc, currentFight, index) => {
-      const phasef = phaseMap.get(currentFight.lastPhaseAsAbsoluteIndex)!;
-      const totalFightPercentage = this.fightToPercentage(currentFight);
+  formattedLogs: GraphingData[];
 
-      if (!acc.first.has(phasef)) {
-        acc.first.set(phasef, totalFightPercentage);
-      }
+  constructor() {
+    this.formattedLogs = this.extractEncounters();
+  }
 
-      acc.points.push([index, totalFightPercentage]);
-      return acc;
-    },
-      {
-        points: [],
-        first: new Map(),
-        startTimes: this.getStartTimes(logs)
-      }
-    );
+  private extractEncounters(): GraphingData[] {
+    const out: GraphingData[] = [];
+    for (const encounter of encounters) {
+      const val = encounter.logs
+        .map((x) => ({
+          ...x,
+          fights: x.fights.filter((x) => x.bossPercentage != null) as CleanFight[],
+        }))
+        .filter((x) => x.fights.length !== 0)
+        .flatMap((curr) => {
+          return curr.fights.map((x) => ({
+            ...x,
+            bossPercentage: 100 - x.bossPercentage,
+            startTime: x.startTime + curr.startTime,
+          }));
+        })
+        .sort((a, b) => a.startTime - b.startTime)
+        .reduce<GraphingData>((acc, currentFight, index) => {
+          const phasef = encounter.phaseNames[currentFight.lastPhaseAsAbsoluteIndex];
+          const totalFightPercentage = this.fightToPercentage(currentFight, encounter.phases);
 
-  private fightToPercentage(fight: CleanFight): number {
+          if (!acc.first.has(phasef)) {
+            acc.first.set(phasef, totalFightPercentage);
+          }
+
+          acc.points.push([index, totalFightPercentage]);
+          return acc;
+        },
+          {
+            title: encounter.name,
+            points: [],
+            first: new Map(),
+            startTimes: this.getStartTimes(encounter.logs),
+          }
+        );
+      out.push(val)
+    }
+    return out
+  }
+
+  private fightToPercentage(fight: CleanFight, phaseCount: number): number {
     return +(
       (fight.lastPhaseAsAbsoluteIndex * 100 + fight.bossPercentage) /
-      DSR_PHASES
+      phaseCount
     ).toFixed(2);
   }
 
-  private getStartTimes(logs: Logs) {
-    const fights = logs.data.reportData.reports.data.sort((a, b) => a.startTime - b.startTime);
+  private getStartTimes(data: LogData[]) {
+    const fights = data.sort((a, b) => a.startTime - b.startTime);
     const out = [];
     let pullCounter = 0;
 
@@ -73,4 +100,9 @@ export class AppComponent {
 
     return out;
   }
+}
+
+function readJsonFight(name: string): LogData[] {
+  const f: LogsFile = require(`../assets/${name}.json`)
+  return f.data.reportData.reports.data;
 }
